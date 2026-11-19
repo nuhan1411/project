@@ -1,0 +1,1201 @@
+order_id,customer_id,order_date,shipping_mode,payment_method,order_status
+1434,101,2023-01-01,Standard,Debit Card,Completed
+1320,262,2023-01-02,Express,Credit Card,Completed
+1048,196,2023-01-03,Same Day,PayPal,Completed
+1136,332,2023-01-03,Standard,Credit Card,Completed
+1992,297,2023-01-03,Express,Credit Card,Completed
+1123,126,2023-01-04,Standard,Debit Card,Completed
+1343,282,2023-01-04,Standard,Credit Card,Completed
+1751,264,2023-01-05,Standard,Credit Card,Completed
+1874,258,2023-01-06,Same Day,Credit Card,Completed
+1419,218,2023-01-07,Standard,Debit Card,Completed
+1480,265,2023-01-08,Standard,Credit Card,Completed
+1520,246,2023-01-08,Standard,Debit Card,Returned
+1392,228,2023-01-09,Express,PayPal,Completed
+2140,139,2023-01-10,Standard,Credit Card,Completed
+1341,128,2023-01-11,Same Day,Debit Card,Completed
+1734,126,2023-01-11,Standard,Debit Card,Completed
+1724,220,2023-01-14,Standard,Debit Card,Completed
+2045,110,2023-01-14,Standard,Credit Card,Completed
+1784,204,2023-01-15,Standard,Credit Card,Completed
+1207,325,2023-01-16,Standard,Credit Card,Completed
+1286,206,2023-01-16,Express,Credit Card,Completed
+1961,177,2023-01-16,Standard,Credit Card,Completed
+1577,238,2023-01-17,Express,Credit Card,Completed
+1058,163,2023-01-18,Standard,Credit Card,Completed
+1108,138,2023-01-20,Standard,Debit Card,Completed
+1707,156,2023-01-20,Standard,Credit Card,Completed
+1193,278,2023-01-22,Standard,Credit Card,Completed
+1706,220,2023-01-22,Standard,PayPal,Completed
+2047,257,2023-01-23,Standard,Credit Card,Completed
+1270,350,2023-01-24,Standard,Credit Card,Completed
+1917,192,2023-01-26,Same Day,PayPal,Completed
+1957,103,2023-01-28,Standard,Credit Card,Completed
+1763,334,2023-01-29,Same Day,Credit Card,Completed
+1791,280,2023-01-29,Standard,Credit Card,Completed
+1216,155,2023-02-01,Standard,PayPal,Completed
+1640,334,2023-02-01,Standard,PayPal,Completed
+1915,199,2023-02-01,Standard,Debit Card,Returned
+1042,124,2023-02-02,Standard,Credit Card,Completed
+1296,125,2023-02-02,Express,Credit Card,Completed
+2136,177,2023-02-02,Standard,Debit Card,Completed
+2170,161,2023-02-02,Express,Debit Card,Completed
+1111,279,2023-02-03,Standard,Credit Card,Completed
+1115,313,2023-02-03,Express,Debit Card,Completed
+1600,202,2023-02-04,Standard,PayPal,Completed
+2163,333,2023-02-04,Standard,Debit Card,Completed
+1036,250,2023-02-05,Express,PayPal,Completed
+1471,278,2023-02-11,Express,PayPal,Completed
+1702,294,2023-02-12,Same Day,Credit Card,Completed
+1852,259,2023-02-13,Express,Credit Card,Completed
+1555,116,2023-02-14,Standard,Credit Card,Completed
+1786,244,2023-02-15,Standard,Credit Card,Completed
+1427,120,2023-02-17,Standard,Credit Card,Completed
+1705,199,2023-02-18,Standard,PayPal,Completed
+1867,191,2023-02-18,Standard,PayPal,Returned
+1189,156,2023-02-19,Express,Debit Card,Cancelled
+1540,273,2023-02-19,Express,Credit Card,Completed
+1623,108,2023-02-19,Standard,Debit Card,Completed
+1515,334,2023-02-21,Express,Credit Card,Completed
+1456,172,2023-02-23,Same Day,Credit Card,Completed
+2015,104,2023-02-23,Standard,Credit Card,Completed
+1871,206,2023-02-24,Standard,PayPal,Completed
+2151,127,2023-02-24,Express,Credit Card,Cancelled
+1319,281,2023-02-25,Same Day,Credit Card,Completed
+1335,310,2023-02-25,Standard,Credit Card,Completed
+1284,335,2023-03-01,Standard,Credit Card,Completed
+1510,119,2023-03-02,Standard,Credit Card,Completed
+1243,224,2023-03-05,Express,Credit Card,Completed
+1641,173,2023-03-06,Standard,Credit Card,Completed
+1947,311,2023-03-06,Same Day,Credit Card,Completed
+1310,139,2023-03-07,Standard,PayPal,Completed
+1842,178,2023-03-08,Express,Credit Card,Returned
+1865,147,2023-03-10,Express,PayPal,Completed
+1885,180,2023-03-10,Standard,Credit Card,Completed
+1767,297,2023-03-11,Express,PayPal,Completed
+1977,103,2023-03-11,Standard,PayPal,Completed
+1225,147,2023-03-13,Standard,Credit Card,Returned
+1369,119,2023-03-14,Express,Credit Card,Completed
+1458,219,2023-03-16,Standard,Credit Card,Completed
+1975,271,2023-03-16,Same Day,Debit Card,Completed
+2003,344,2023-03-16,Standard,Debit Card,Completed
+1412,195,2023-03-17,Same Day,Gift Card,Completed
+1680,141,2023-03-18,Standard,PayPal,Completed
+1097,194,2023-03-19,Standard,Debit Card,Completed
+1713,216,2023-03-19,Standard,Debit Card,Completed
+2129,200,2023-03-19,Same Day,Credit Card,Completed
+2115,232,2023-03-20,Express,PayPal,Completed
+2196,292,2023-03-21,Standard,Credit Card,Completed
+1084,149,2023-03-22,Express,PayPal,Completed
+2085,224,2023-03-23,Same Day,PayPal,Completed
+2199,236,2023-03-23,Same Day,Credit Card,Returned
+1806,330,2023-03-24,Express,Credit Card,Completed
+1855,322,2023-03-24,Standard,PayPal,Completed
+1739,301,2023-03-25,Same Day,Gift Card,Completed
+1007,126,2023-03-26,Express,Credit Card,Completed
+1266,188,2023-03-26,Standard,PayPal,Completed
+2149,336,2023-03-27,Express,Credit Card,Completed
+1252,301,2023-03-28,Standard,Credit Card,Completed
+2101,331,2023-03-29,Express,PayPal,Completed
+2175,128,2023-03-29,Standard,PayPal,Completed
+1435,252,2023-03-30,Standard,Debit Card,Completed
+1617,234,2023-03-30,Standard,Credit Card,Completed
+1380,226,2023-04-01,Express,Credit Card,Completed
+1018,335,2023-04-02,Standard,Credit Card,Completed
+1237,210,2023-04-02,Standard,PayPal,Completed
+1445,288,2023-04-02,Standard,PayPal,Cancelled
+1439,104,2023-04-03,Standard,Credit Card,Completed
+1448,188,2023-04-03,Standard,Credit Card,Completed
+1983,258,2023-04-05,Express,Credit Card,Completed
+1074,143,2023-04-06,Standard,PayPal,Completed
+1545,280,2023-04-06,Standard,Credit Card,Completed
+1030,264,2023-04-07,Standard,Credit Card,Completed
+1721,205,2023-04-07,Standard,Credit Card,Completed
+1289,334,2023-04-10,Standard,PayPal,Completed
+1634,320,2023-04-10,Same Day,Credit Card,Completed
+1840,236,2023-04-11,Standard,Credit Card,Completed
+2187,106,2023-04-11,Express,PayPal,Completed
+1256,347,2023-04-12,Standard,Debit Card,Completed
+1150,214,2023-04-13,Standard,Credit Card,Completed
+1277,251,2023-04-13,Standard,Credit Card,Completed
+1327,202,2023-04-13,Express,PayPal,Completed
+1376,231,2023-04-13,Standard,Credit Card,Completed
+1423,316,2023-04-14,Express,Credit Card,Completed
+1621,242,2023-04-16,Standard,Credit Card,Completed
+1118,274,2023-04-19,Standard,Credit Card,Completed
+1181,156,2023-04-19,Express,PayPal,Completed
+1953,293,2023-04-19,Express,Debit Card,Completed
+1796,284,2023-04-20,Standard,Credit Card,Completed
+1898,138,2023-04-21,Express,Credit Card,Completed
+1092,235,2023-04-22,Standard,PayPal,Completed
+1103,167,2023-04-23,Express,Credit Card,Completed
+1429,338,2023-04-23,Express,Credit Card,Completed
+1519,172,2023-04-23,Standard,PayPal,Completed
+2075,301,2023-04-25,Express,Credit Card,Completed
+2164,335,2023-04-25,Same Day,Credit Card,Completed
+1361,224,2023-04-26,Standard,PayPal,Completed
+2195,228,2023-04-26,Standard,Debit Card,Completed
+1611,161,2023-04-27,Standard,Credit Card,Completed
+1841,104,2023-04-27,Same Day,Credit Card,Completed
+1918,158,2023-04-27,Express,Credit Card,Completed
+1206,147,2023-04-28,Express,Credit Card,Completed
+1525,174,2023-04-28,Standard,Debit Card,Returned
+2038,334,2023-04-29,Standard,Credit Card,Completed
+1043,330,2023-04-30,Same Day,Credit Card,Completed
+1942,183,2023-04-30,Standard,Credit Card,Returned
+1003,323,2023-05-01,Standard,Credit Card,Completed
+1131,168,2023-05-01,Standard,PayPal,Completed
+1311,289,2023-05-01,Standard,PayPal,Completed
+1962,120,2023-05-01,Same Day,PayPal,Completed
+1232,121,2023-05-02,Standard,Debit Card,Completed
+1079,257,2023-05-03,Standard,Credit Card,Completed
+1279,112,2023-05-03,Standard,Credit Card,Completed
+1493,290,2023-05-04,Express,Credit Card,Returned
+1585,329,2023-05-04,Standard,Credit Card,Completed
+1598,139,2023-05-04,Standard,Credit Card,Returned
+1682,291,2023-05-04,Express,Credit Card,Completed
+1913,149,2023-05-05,Standard,Credit Card,Completed
+2006,187,2023-05-06,Express,PayPal,Returned
+1582,323,2023-05-07,Express,Credit Card,Completed
+1302,161,2023-05-08,Express,Debit Card,Returned
+1068,130,2023-05-09,Standard,Credit Card,Completed
+1995,155,2023-05-09,Standard,PayPal,Completed
+2179,219,2023-05-09,Same Day,Credit Card,Completed
+1636,343,2023-05-11,Express,Credit Card,Completed
+1805,335,2023-05-11,Standard,Credit Card,Completed
+1162,233,2023-05-12,Express,Gift Card,Completed
+1269,205,2023-05-12,Standard,Credit Card,Cancelled
+1512,319,2023-05-12,Express,Credit Card,Completed
+1299,200,2023-05-13,Standard,Credit Card,Completed
+2191,173,2023-05-14,Same Day,Debit Card,Completed
+1437,173,2023-05-15,Standard,Credit Card,Completed
+1937,124,2023-05-17,Standard,PayPal,Completed
+1453,173,2023-05-19,Standard,PayPal,Cancelled
+1895,289,2023-05-19,Express,Credit Card,Completed
+1991,289,2023-05-19,Standard,Credit Card,Completed
+1511,163,2023-05-21,Same Day,Credit Card,Completed
+1368,144,2023-05-22,Express,PayPal,Completed
+1685,153,2023-05-23,Standard,Credit Card,Completed
+1816,102,2023-05-23,Standard,Credit Card,Completed
+1076,327,2023-05-24,Standard,PayPal,Completed
+1222,106,2023-05-24,Standard,Credit Card,Completed
+1367,170,2023-05-24,Standard,Credit Card,Completed
+1860,202,2023-05-24,Standard,PayPal,Completed
+1894,169,2023-05-24,Standard,Credit Card,Completed
+1154,153,2023-05-25,Express,Debit Card,Completed
+1094,187,2023-05-30,Standard,Credit Card,Completed
+1180,155,2023-05-30,Standard,Credit Card,Completed
+1969,135,2023-05-31,Standard,Credit Card,Completed
+1274,229,2023-06-01,Standard,Credit Card,Cancelled
+1700,321,2023-06-01,Express,PayPal,Completed
+1357,269,2023-06-02,Express,Debit Card,Completed
+2068,137,2023-06-02,Express,Credit Card,Completed
+1740,346,2023-06-04,Express,Debit Card,Completed
+1902,304,2023-06-04,Express,PayPal,Completed
+2145,321,2023-06-04,Standard,Credit Card,Completed
+2167,318,2023-06-04,Standard,Credit Card,Returned
+1100,158,2023-06-05,Standard,Credit Card,Completed
+1251,131,2023-06-05,Standard,Credit Card,Completed
+1591,349,2023-06-05,Express,PayPal,Returned
+1780,151,2023-06-05,Standard,Credit Card,Completed
+1570,170,2023-06-06,Standard,Credit Card,Completed
+1666,245,2023-06-06,Standard,Credit Card,Completed
+1779,268,2023-06-06,Express,Credit Card,Completed
+2010,338,2023-06-06,Express,Debit Card,Completed
+2168,296,2023-06-06,Standard,Debit Card,Completed
+1563,264,2023-06-07,Same Day,Debit Card,Completed
+2058,327,2023-06-08,Standard,Credit Card,Completed
+1033,298,2023-06-09,Standard,PayPal,Completed
+1882,204,2023-06-10,Express,PayPal,Completed
+1890,183,2023-06-11,Express,Credit Card,Completed
+1869,107,2023-06-12,Express,Debit Card,Completed
+2001,123,2023-06-12,Standard,Credit Card,Completed
+1107,241,2023-06-13,Express,Credit Card,Completed
+1382,150,2023-06-13,Same Day,PayPal,Completed
+1717,104,2023-06-13,Standard,Credit Card,Completed
+1899,199,2023-06-13,Express,Debit Card,Completed
+2043,345,2023-06-13,Express,PayPal,Completed
+1881,171,2023-06-14,Express,Debit Card,Completed
+1262,109,2023-06-15,Standard,Credit Card,Completed
+1670,284,2023-06-15,Express,Credit Card,Completed
+2031,127,2023-06-15,Standard,Credit Card,Completed
+1198,117,2023-06-16,Express,Credit Card,Completed
+1674,182,2023-06-17,Express,Credit Card,Completed
+1930,320,2023-06-17,Express,Credit Card,Completed
+1113,205,2023-06-18,Standard,PayPal,Completed
+1155,215,2023-06-19,Standard,Credit Card,Completed
+1304,235,2023-06-19,Standard,Credit Card,Completed
+1430,118,2023-06-19,Express,Credit Card,Completed
+2025,139,2023-06-20,Standard,Credit Card,Completed
+1087,226,2023-06-22,Express,PayPal,Completed
+1170,188,2023-06-22,Express,Debit Card,Completed
+1490,302,2023-06-22,Express,Credit Card,Completed
+1073,302,2023-06-23,Same Day,Credit Card,Returned
+1823,268,2023-06-23,Standard,PayPal,Cancelled
+2171,214,2023-06-23,Express,Debit Card,Completed
+1572,235,2023-06-24,Express,Gift Card,Completed
+2002,346,2023-06-24,Express,Gift Card,Completed
+2052,109,2023-06-25,Standard,Credit Card,Completed
+1082,318,2023-06-26,Express,Credit Card,Completed
+1790,319,2023-06-26,Standard,Credit Card,Completed
+1169,124,2023-06-27,Same Day,PayPal,Returned
+1298,103,2023-06-28,Standard,Credit Card,Completed
+2154,282,2023-06-29,Standard,Credit Card,Returned
+2080,245,2023-06-30,Express,Credit Card,Completed
+1217,105,2023-07-01,Standard,PayPal,Completed
+1399,210,2023-07-01,Standard,Debit Card,Completed
+1684,335,2023-07-04,Standard,Debit Card,Completed
+1012,262,2023-07-06,Express,Credit Card,Completed
+1267,128,2023-07-06,Express,Credit Card,Completed
+2084,317,2023-07-06,Express,Credit Card,Completed
+1039,241,2023-07-07,Express,Credit Card,Completed
+1250,130,2023-07-07,Standard,Credit Card,Completed
+1547,272,2023-07-07,Standard,Credit Card,Completed
+1742,253,2023-07-07,Express,Debit Card,Completed
+1886,102,2023-07-07,Same Day,Debit Card,Returned
+1326,165,2023-07-08,Standard,Debit Card,Completed
+1645,348,2023-07-08,Standard,Credit Card,Completed
+2159,197,2023-07-08,Standard,PayPal,Completed
+1441,157,2023-07-11,Standard,Credit Card,Completed
+1506,105,2023-07-11,Same Day,Credit Card,Completed
+1541,218,2023-07-11,Standard,Debit Card,Completed
+1966,304,2023-07-11,Express,Credit Card,Completed
+2064,172,2023-07-11,Standard,Credit Card,Completed
+1001,335,2023-07-12,Standard,Credit Card,Completed
+1403,309,2023-07-14,Express,Debit Card,Completed
+1650,278,2023-07-15,Standard,Credit Card,Completed
+1952,229,2023-07-15,Same Day,Credit Card,Completed
+1040,302,2023-07-16,Standard,Credit Card,Completed
+1231,320,2023-07-16,Same Day,Credit Card,Completed
+1659,313,2023-07-19,Express,Gift Card,Returned
+1526,219,2023-07-20,Standard,Credit Card,Completed
+1990,261,2023-07-21,Same Day,Credit Card,Completed
+1151,261,2023-07-22,Standard,Credit Card,Completed
+1264,116,2023-07-22,Standard,Credit Card,Completed
+1835,172,2023-07-22,Standard,Credit Card,Completed
+2092,109,2023-07-22,Standard,Credit Card,Completed
+1661,260,2023-07-23,Standard,Credit Card,Completed
+1153,292,2023-07-24,Standard,Credit Card,Completed
+2157,232,2023-07-25,Same Day,Credit Card,Completed
+1057,306,2023-07-26,Standard,Credit Card,Completed
+1959,274,2023-07-26,Standard,PayPal,Completed
+1422,129,2023-07-28,Standard,Credit Card,Completed
+1230,308,2023-07-29,Express,PayPal,Completed
+1575,136,2023-07-29,Standard,PayPal,Completed
+1849,247,2023-07-29,Express,Credit Card,Completed
+1517,172,2023-07-30,Same Day,PayPal,Completed
+1965,152,2023-08-01,Same Day,Credit Card,Completed
+1815,204,2023-08-03,Standard,Debit Card,Completed
+1923,281,2023-08-03,Standard,Credit Card,Completed
+1932,188,2023-08-03,Standard,Credit Card,Completed
+1330,116,2023-08-05,Standard,Credit Card,Cancelled
+1944,194,2023-08-05,Express,PayPal,Completed
+1249,170,2023-08-06,Express,Credit Card,Completed
+1273,181,2023-08-07,Standard,Debit Card,Completed
+1140,138,2023-08-10,Standard,PayPal,Completed
+1777,147,2023-08-10,Standard,Debit Card,Completed
+1718,125,2023-08-12,Standard,Credit Card,Completed
+2012,121,2023-08-12,Standard,Gift Card,Completed
+1450,204,2023-08-14,Standard,PayPal,Completed
+2004,298,2023-08-14,Standard,PayPal,Completed
+2020,201,2023-08-15,Same Day,Credit Card,Completed
+2173,191,2023-08-15,Same Day,Credit Card,Completed
+1045,152,2023-08-16,Express,Credit Card,Completed
+1592,350,2023-08-16,Same Day,Credit Card,Completed
+1987,113,2023-08-16,Same Day,PayPal,Completed
+1202,155,2023-08-18,Standard,Credit Card,Completed
+1451,175,2023-08-18,Express,Credit Card,Completed
+1536,212,2023-08-18,Standard,Credit Card,Completed
+2079,302,2023-08-19,Standard,Credit Card,Completed
+1148,199,2023-08-20,Express,Credit Card,Completed
+1726,112,2023-08-20,Express,Credit Card,Completed
+1851,163,2023-08-20,Express,PayPal,Completed
+1066,174,2023-08-21,Standard,Credit Card,Completed
+1827,130,2023-08-22,Standard,Credit Card,Completed
+1359,343,2023-08-24,Express,Credit Card,Completed
+1730,191,2023-08-24,Standard,PayPal,Completed
+1164,121,2023-08-25,Standard,Credit Card,Completed
+1201,311,2023-08-25,Standard,Credit Card,Completed
+1433,223,2023-08-25,Standard,Gift Card,Completed
+1631,318,2023-08-26,Standard,Debit Card,Completed
+1144,332,2023-08-28,Express,PayPal,Completed
+1770,155,2023-08-28,Standard,Credit Card,Completed
+1121,162,2023-08-29,Express,Credit Card,Completed
+1513,308,2023-08-30,Express,Credit Card,Completed
+1226,334,2023-08-31,Standard,PayPal,Completed
+1834,210,2023-08-31,Express,Credit Card,Returned
+1185,121,2023-09-01,Standard,Credit Card,Completed
+1993,348,2023-09-02,Standard,Debit Card,Completed
+1687,188,2023-09-03,Standard,Credit Card,Completed
+1046,349,2023-09-05,Standard,PayPal,Completed
+2076,187,2023-09-05,Standard,Credit Card,Completed
+1135,153,2023-09-07,Standard,Credit Card,Returned
+1440,270,2023-09-07,Express,PayPal,Completed
+1856,202,2023-09-07,Same Day,Credit Card,Completed
+1120,240,2023-09-08,Express,PayPal,Completed
+1495,168,2023-09-09,Standard,PayPal,Cancelled
+1578,242,2023-09-10,Standard,PayPal,Completed
+1190,254,2023-09-11,Standard,Debit Card,Completed
+1522,344,2023-09-11,Same Day,Debit Card,Completed
+1583,162,2023-09-11,Express,Debit Card,Completed
+1260,248,2023-09-12,Standard,Debit Card,Completed
+1305,268,2023-09-12,Same Day,Credit Card,Completed
+1727,274,2023-09-12,Standard,Credit Card,Completed
+1125,280,2023-09-13,Express,Credit Card,Completed
+1236,175,2023-09-13,Express,Credit Card,Completed
+1258,338,2023-09-13,Express,Credit Card,Completed
+1300,155,2023-09-13,Express,Credit Card,Cancelled
+1588,329,2023-09-13,Standard,Gift Card,Completed
+2148,115,2023-09-13,Express,Credit Card,Completed
+1569,276,2023-09-14,Standard,Gift Card,Completed
+1307,173,2023-09-15,Express,Credit Card,Completed
+1951,251,2023-09-16,Same Day,Debit Card,Completed
+2049,106,2023-09-17,Express,Credit Card,Completed
+1758,165,2023-09-18,Standard,PayPal,Completed
+1765,155,2023-09-19,Express,Credit Card,Completed
+2007,323,2023-09-19,Express,Credit Card,Completed
+1186,181,2023-09-20,Standard,PayPal,Completed
+1737,323,2023-09-20,Standard,Credit Card,Cancelled
+1192,199,2023-09-21,Standard,Debit Card,Completed
+1235,182,2023-09-21,Standard,Credit Card,Returned
+1404,113,2023-09-21,Standard,Credit Card,Completed
+1743,210,2023-09-22,Standard,Credit Card,Completed
+1832,235,2023-09-22,Standard,Credit Card,Returned
+1218,123,2023-09-23,Standard,PayPal,Completed
+1716,282,2023-09-23,Same Day,Credit Card,Cancelled
+1792,322,2023-09-23,Standard,Credit Card,Completed
+1922,172,2023-09-23,Express,Credit Card,Completed
+1914,214,2023-09-24,Standard,PayPal,Completed
+2029,342,2023-09-24,Express,PayPal,Completed
+1219,129,2023-09-26,Standard,Debit Card,Completed
+1358,237,2023-09-26,Express,Credit Card,Completed
+1485,139,2023-09-26,Standard,Credit Card,Completed
+1655,149,2023-09-26,Standard,PayPal,Completed
+1514,185,2023-09-28,Standard,Credit Card,Completed
+1051,323,2023-09-29,Express,Credit Card,Completed
+1581,151,2023-09-29,Express,Gift Card,Completed
+1972,105,2023-09-29,Standard,PayPal,Completed
+2022,206,2023-09-29,Standard,PayPal,Completed
+1410,185,2023-09-30,Express,Credit Card,Completed
+1470,332,2023-09-30,Express,Debit Card,Completed
+1565,218,2023-09-30,Same Day,Credit Card,Completed
+1817,180,2023-09-30,Standard,Debit Card,Completed
+1850,262,2023-10-01,Express,Credit Card,Completed
+1590,246,2023-10-02,Standard,PayPal,Completed
+1460,102,2023-10-03,Standard,Credit Card,Completed
+1559,152,2023-10-03,Standard,Credit Card,Completed
+1750,338,2023-10-03,Standard,PayPal,Completed
+1755,304,2023-10-03,Standard,Credit Card,Completed
+1956,336,2023-10-03,Express,Credit Card,Completed
+2152,255,2023-10-03,Standard,PayPal,Completed
+1085,126,2023-10-04,Standard,Credit Card,Completed
+1158,300,2023-10-05,Standard,PayPal,Completed
+1473,191,2023-10-05,Express,Credit Card,Completed
+2055,128,2023-10-05,Standard,PayPal,Completed
+2034,251,2023-10-06,Standard,Credit Card,Completed
+1452,284,2023-10-07,Standard,Credit Card,Completed
+1449,135,2023-10-08,Standard,Debit Card,Completed
+2122,210,2023-10-08,Standard,Credit Card,Completed
+1004,184,2023-10-09,Standard,PayPal,Completed
+1533,290,2023-10-10,Express,Credit Card,Completed
+1769,217,2023-10-10,Express,Credit Card,Completed
+1213,123,2023-10-11,Standard,PayPal,Completed
+1143,289,2023-10-12,Express,Credit Card,Completed
+1491,169,2023-10-12,Same Day,PayPal,Completed
+1935,158,2023-10-12,Standard,Credit Card,Completed
+2178,335,2023-10-12,Standard,PayPal,Completed
+1109,322,2023-10-13,Standard,Credit Card,Completed
+1916,257,2023-10-13,Standard,Credit Card,Completed
+1333,327,2023-10-14,Standard,PayPal,Completed
+1906,276,2023-10-14,Express,Credit Card,Completed
+1893,227,2023-10-15,Standard,Debit Card,Completed
+1426,132,2023-10-16,Standard,Credit Card,Returned
+1654,112,2023-10-16,Same Day,Credit Card,Completed
+1610,289,2023-10-17,Same Day,Debit Card,Completed
+1081,106,2023-10-20,Standard,PayPal,Completed
+1689,191,2023-10-20,Standard,Credit Card,Completed
+2071,293,2023-10-20,Express,Credit Card,Cancelled
+2078,187,2023-10-20,Standard,Credit Card,Completed
+2016,196,2023-10-22,Standard,Debit Card,Completed
+1160,102,2023-10-25,Standard,Debit Card,Completed
+1321,127,2023-10-25,Express,PayPal,Completed
+1002,313,2023-10-26,Standard,Debit Card,Completed
+1019,115,2023-10-26,Standard,Gift Card,Completed
+2051,129,2023-10-28,Standard,Credit Card,Completed
+1364,234,2023-10-29,Standard,PayPal,Completed
+2141,289,2023-10-29,Same Day,Credit Card,Completed
+1070,172,2023-10-30,Standard,Credit Card,Completed
+1413,138,2023-10-30,Standard,Debit Card,Completed
+1281,331,2023-10-31,Standard,Credit Card,Completed
+2162,177,2023-11-01,Standard,Gift Card,Completed
+1013,101,2023-11-02,Standard,Credit Card,Returned
+1149,261,2023-11-02,Standard,PayPal,Completed
+1408,210,2023-11-02,Standard,PayPal,Completed
+1889,194,2023-11-02,Standard,Credit Card,Completed
+1128,187,2023-11-03,Standard,Debit Card,Completed
+1309,319,2023-11-03,Express,PayPal,Completed
+1312,326,2023-11-03,Standard,Credit Card,Completed
+1401,270,2023-11-03,Express,Credit Card,Completed
+1497,173,2023-11-03,Standard,Credit Card,Completed
+1139,320,2023-11-04,Standard,Gift Card,Completed
+1038,244,2023-11-05,Same Day,Credit Card,Cancelled
+1159,193,2023-11-05,Standard,Credit Card,Completed
+1316,241,2023-11-05,Standard,PayPal,Completed
+1381,304,2023-11-05,Standard,Credit Card,Completed
+1618,145,2023-11-05,Standard,Credit Card,Completed
+1844,132,2023-11-05,Express,Credit Card,Completed
+1723,108,2023-11-06,Standard,Debit Card,Completed
+1847,295,2023-11-06,Standard,Debit Card,Completed
+1594,342,2023-11-07,Standard,Credit Card,Completed
+1925,186,2023-11-07,Standard,Credit Card,Completed
+1411,187,2023-11-08,Standard,Credit Card,Completed
+1593,239,2023-11-08,Express,PayPal,Completed
+1628,305,2023-11-08,Standard,Credit Card,Returned
+1553,112,2023-11-09,Same Day,Gift Card,Completed
+1677,321,2023-11-09,Express,Credit Card,Completed
+1970,266,2023-11-09,Express,PayPal,Completed
+2169,123,2023-11-09,Standard,Credit Card,Cancelled
+1017,299,2023-11-10,Express,Credit Card,Completed
+1025,135,2023-11-10,Standard,PayPal,Completed
+1031,332,2023-11-10,Express,PayPal,Completed
+1467,151,2023-11-10,Express,Gift Card,Cancelled
+1472,293,2023-11-10,Standard,Credit Card,Completed
+1477,277,2023-11-13,Standard,Credit Card,Completed
+1843,171,2023-11-13,Standard,PayPal,Completed
+1362,226,2023-11-14,Standard,PayPal,Completed
+1653,135,2023-11-14,Standard,Credit Card,Completed
+1698,189,2023-11-14,Express,Credit Card,Completed
+1725,261,2023-11-14,Standard,Credit Card,Completed
+1184,188,2023-11-15,Standard,Credit Card,Completed
+1037,284,2023-11-16,Standard,Debit Card,Completed
+1122,333,2023-11-16,Express,Credit Card,Completed
+1683,156,2023-11-18,Express,Credit Card,Completed
+1141,163,2023-11-19,Standard,PayPal,Completed
+1301,307,2023-11-19,Standard,PayPal,Completed
+1387,232,2023-11-19,Standard,Credit Card,Completed
+1099,332,2023-11-20,Standard,Debit Card,Completed
+1244,338,2023-11-20,Standard,Credit Card,Completed
+1229,165,2023-11-21,Standard,Gift Card,Completed
+1339,185,2023-11-21,Standard,Credit Card,Completed
+1292,165,2023-11-22,Same Day,Credit Card,Completed
+1845,130,2023-11-22,Express,Debit Card,Completed
+2103,252,2023-11-22,Standard,PayPal,Completed
+1196,248,2023-11-23,Standard,Credit Card,Completed
+1539,161,2023-11-23,Same Day,Credit Card,Completed
+1663,139,2023-11-23,Standard,Credit Card,Completed
+1873,258,2023-11-23,Same Day,Debit Card,Completed
+1877,149,2023-11-23,Standard,Gift Card,Completed
+1127,281,2023-11-24,Standard,Credit Card,Completed
+1647,317,2023-11-24,Express,PayPal,Completed
+1997,112,2023-11-25,Standard,Credit Card,Completed
+2082,126,2023-11-25,Standard,Credit Card,Completed
+1034,284,2023-11-26,Express,Debit Card,Completed
+1052,299,2023-11-26,Standard,PayPal,Completed
+1102,115,2023-11-26,Express,Credit Card,Completed
+1134,198,2023-11-26,Standard,Credit Card,Completed
+1208,173,2023-11-26,Standard,Debit Card,Completed
+1985,120,2023-11-26,Standard,Credit Card,Completed
+2107,248,2023-11-28,Standard,Credit Card,Returned
+1529,319,2023-11-29,Standard,Credit Card,Completed
+1658,246,2023-11-29,Standard,Credit Card,Completed
+1538,313,2023-11-30,Same Day,Credit Card,Completed
+1574,292,2023-11-30,Express,Credit Card,Completed
+2194,254,2023-11-30,Standard,Credit Card,Completed
+2197,330,2023-12-01,Express,Debit Card,Completed
+1315,250,2023-12-02,Standard,Credit Card,Returned
+1691,187,2023-12-02,Express,Credit Card,Completed
+1014,159,2023-12-03,Standard,Gift Card,Completed
+2027,223,2023-12-03,Standard,Gift Card,Completed
+2150,335,2023-12-04,Standard,Credit Card,Returned
+1704,204,2023-12-05,Express,Credit Card,Completed
+1738,130,2023-12-05,Standard,PayPal,Completed
+1854,121,2023-12-05,Standard,PayPal,Completed
+2077,245,2023-12-05,Express,Debit Card,Completed
+1479,137,2023-12-06,Same Day,Credit Card,Completed
+1486,323,2023-12-06,Standard,PayPal,Completed
+1741,112,2023-12-06,Same Day,Credit Card,Completed
+1021,333,2023-12-07,Express,Credit Card,Completed
+1518,129,2023-12-07,Express,Credit Card,Completed
+1846,119,2023-12-07,Same Day,Debit Card,Completed
+1447,246,2023-12-08,Express,Debit Card,Completed
+1501,348,2023-12-08,Express,PayPal,Completed
+1602,132,2023-12-08,Standard,Debit Card,Completed
+1963,189,2023-12-08,Same Day,PayPal,Returned
+2097,280,2023-12-08,Same Day,Credit Card,Completed
+1775,233,2023-12-09,Standard,PayPal,Completed
+1826,305,2023-12-09,Standard,PayPal,Completed
+1220,252,2023-12-10,Standard,Credit Card,Returned
+1609,127,2023-12-10,Standard,Debit Card,Completed
+1613,273,2023-12-10,Standard,Credit Card,Completed
+1558,334,2023-12-12,Express,Gift Card,Completed
+2067,250,2023-12-12,Standard,PayPal,Completed
+1839,138,2023-12-13,Standard,Gift Card,Completed
+2106,304,2023-12-13,Express,Credit Card,Completed
+1562,262,2023-12-14,Standard,PayPal,Cancelled
+1459,208,2023-12-15,Standard,Credit Card,Completed
+1954,203,2023-12-15,Standard,Credit Card,Completed
+1053,248,2023-12-16,Express,Debit Card,Completed
+1669,304,2023-12-16,Standard,PayPal,Cancelled
+1766,118,2023-12-16,Express,PayPal,Completed
+1836,215,2023-12-16,Standard,Credit Card,Completed
+1976,147,2023-12-16,Same Day,Credit Card,Completed
+1055,224,2023-12-17,Express,Debit Card,Completed
+1800,152,2023-12-17,Standard,Credit Card,Completed
+2142,206,2023-12-17,Standard,Debit Card,Completed
+1329,130,2023-12-18,Standard,Credit Card,Completed
+1712,246,2023-12-18,Express,PayPal,Completed
+1210,226,2023-12-19,Express,Credit Card,Completed
+1668,140,2023-12-19,Standard,Credit Card,Completed
+2009,227,2023-12-19,Standard,PayPal,Completed
+2135,201,2023-12-19,Standard,PayPal,Completed
+2180,215,2023-12-19,Express,PayPal,Completed
+1075,158,2023-12-20,Standard,Gift Card,Completed
+1246,274,2023-12-20,Express,Debit Card,Completed
+1331,174,2023-12-20,Express,PayPal,Completed
+1372,305,2023-12-20,Express,Credit Card,Completed
+1389,117,2023-12-20,Standard,PayPal,Completed
+1528,256,2023-12-20,Standard,Gift Card,Returned
+1354,287,2023-12-21,Express,PayPal,Completed
+1934,338,2023-12-21,Standard,Debit Card,Completed
+2028,235,2023-12-21,Standard,Credit Card,Completed
+1028,251,2023-12-22,Standard,Credit Card,Completed
+1228,341,2023-12-22,Express,Credit Card,Completed
+1808,213,2023-12-22,Standard,PayPal,Completed
+2087,204,2023-12-22,Standard,Credit Card,Completed
+2098,303,2023-12-22,Express,Credit Card,Completed
+2124,272,2023-12-23,Same Day,Credit Card,Completed
+1029,299,2023-12-24,Express,Credit Card,Completed
+1069,131,2023-12-24,Standard,Credit Card,Completed
+1785,237,2023-12-24,Express,PayPal,Completed
+1912,294,2023-12-25,Standard,PayPal,Completed
+2008,284,2023-12-25,Same Day,Credit Card,Completed
+1022,344,2023-12-26,Express,Debit Card,Completed
+1345,246,2023-12-26,Standard,Credit Card,Completed
+2116,324,2023-12-26,Standard,Gift Card,Completed
+1062,114,2023-12-27,Express,Credit Card,Completed
+1531,116,2023-12-27,Same Day,Credit Card,Cancelled
+1589,341,2023-12-28,Express,Credit Card,Completed
+2100,282,2023-12-28,Standard,Credit Card,Completed
+1662,187,2023-12-29,Standard,Debit Card,Completed
+1532,246,2023-12-30,Standard,Credit Card,Completed
+1756,350,2023-12-30,Standard,PayPal,Completed
+2089,267,2023-12-30,Standard,Credit Card,Completed
+1466,285,2023-12-31,Same Day,Gift Card,Completed
+1041,297,2024-01-01,Express,Credit Card,Completed
+1191,262,2024-01-01,Standard,PayPal,Completed
+1278,166,2024-01-01,Standard,Credit Card,Completed
+1604,273,2024-01-01,Standard,Gift Card,Completed
+1488,157,2024-01-02,Standard,Credit Card,Completed
+1530,248,2024-01-02,Standard,Credit Card,Completed
+2156,234,2024-01-02,Standard,PayPal,Completed
+1106,206,2024-01-03,Express,Credit Card,Completed
+1673,127,2024-01-03,Standard,Debit Card,Completed
+2083,236,2024-01-03,Standard,Credit Card,Completed
+2013,144,2024-01-04,Standard,Credit Card,Completed
+2189,264,2024-01-04,Express,PayPal,Completed
+1516,164,2024-01-07,Standard,PayPal,Completed
+1859,104,2024-01-07,Standard,Debit Card,Completed
+1820,223,2024-01-08,Express,Gift Card,Completed
+1176,243,2024-01-09,Same Day,Credit Card,Completed
+1461,302,2024-01-09,Express,Credit Card,Completed
+1649,151,2024-01-09,Standard,Debit Card,Completed
+1624,159,2024-01-10,Standard,Debit Card,Completed
+2065,334,2024-01-12,Express,PayPal,Completed
+2036,242,2024-01-13,Standard,PayPal,Completed
+2186,282,2024-01-13,Standard,Debit Card,Completed
+1994,348,2024-01-14,Standard,Debit Card,Returned
+1482,151,2024-01-19,Same Day,Credit Card,Completed
+1973,183,2024-01-19,Standard,PayPal,Completed
+2165,282,2024-01-20,Express,Credit Card,Completed
+2105,341,2024-01-21,Standard,Debit Card,Completed
+1303,122,2024-01-22,Express,Debit Card,Completed
+1098,176,2024-01-24,Express,PayPal,Returned
+1828,165,2024-01-25,Standard,Credit Card,Cancelled
+1446,224,2024-01-26,Same Day,Debit Card,Completed
+1463,300,2024-01-28,Express,PayPal,Completed
+1044,262,2024-01-29,Express,PayPal,Completed
+1432,124,2024-01-29,Express,Credit Card,Completed
+1667,163,2024-01-29,Standard,PayPal,Completed
+1783,197,2024-01-29,Express,Credit Card,Completed
+1795,183,2024-01-29,Express,Debit Card,Completed
+1056,204,2024-01-30,Standard,PayPal,Completed
+1317,242,2024-01-30,Express,Credit Card,Completed
+1397,295,2024-01-30,Standard,Credit Card,Completed
+1848,143,2024-01-30,Standard,Gift Card,Completed
+1147,260,2024-01-31,Standard,PayPal,Completed
+1722,302,2024-01-31,Same Day,Credit Card,Completed
+1297,131,2024-02-03,Express,Credit Card,Completed
+1211,118,2024-02-04,Express,Debit Card,Completed
+1552,219,2024-02-04,Standard,Credit Card,Completed
+1587,182,2024-02-04,Express,Credit Card,Completed
+1872,244,2024-02-04,Standard,Credit Card,Returned
+1195,347,2024-02-05,Standard,Credit Card,Cancelled
+1551,156,2024-02-05,Standard,Gift Card,Completed
+1772,225,2024-02-05,Express,Credit Card,Cancelled
+2040,151,2024-02-05,Express,Credit Card,Completed
+2060,106,2024-02-05,Express,Credit Card,Completed
+1632,329,2024-02-06,Express,Gift Card,Completed
+1167,205,2024-02-07,Standard,Credit Card,Returned
+2094,219,2024-02-07,Standard,PayPal,Completed
+1088,194,2024-02-09,Express,Credit Card,Completed
+1338,195,2024-02-09,Standard,Gift Card,Completed
+2153,174,2024-02-11,Standard,PayPal,Completed
+1247,150,2024-02-12,Express,Gift Card,Completed
+2114,283,2024-02-12,Standard,Credit Card,Completed
+1200,104,2024-02-15,Express,Credit Card,Completed
+1481,202,2024-02-15,Express,Debit Card,Completed
+1505,179,2024-02-15,Express,Credit Card,Completed
+1798,183,2024-02-15,Express,Credit Card,Completed
+1093,309,2024-02-17,Express,Credit Card,Completed
+1061,335,2024-02-20,Standard,Credit Card,Completed
+2062,132,2024-02-20,Standard,Credit Card,Completed
+1584,247,2024-02-21,Standard,PayPal,Completed
+1679,313,2024-02-23,Standard,Credit Card,Completed
+2042,194,2024-02-23,Standard,Gift Card,Completed
+1290,164,2024-02-27,Standard,Credit Card,Completed
+2174,215,2024-02-27,Standard,Credit Card,Completed
+1799,235,2024-02-28,Same Day,Credit Card,Completed
+2111,128,2024-02-28,Same Day,Credit Card,Completed
+1909,121,2024-03-01,Standard,Credit Card,Completed
+1083,315,2024-03-02,Standard,Debit Card,Completed
+1633,203,2024-03-03,Standard,Debit Card,Completed
+1579,260,2024-03-07,Same Day,Credit Card,Completed
+1901,120,2024-03-07,Express,Credit Card,Completed
+1268,281,2024-03-08,Standard,Gift Card,Completed
+2021,201,2024-03-09,Express,Credit Card,Completed
+1197,319,2024-03-12,Express,PayPal,Returned
+2050,334,2024-03-13,Express,Credit Card,Completed
+1535,141,2024-03-14,Same Day,Credit Card,Completed
+1614,132,2024-03-14,Express,Credit Card,Completed
+1489,282,2024-03-15,Standard,Credit Card,Completed
+1487,277,2024-03-16,Express,Credit Card,Cancelled
+1280,138,2024-03-17,Express,Credit Card,Completed
+1492,190,2024-03-17,Express,Credit Card,Completed
+1696,235,2024-03-17,Standard,PayPal,Completed
+1183,124,2024-03-18,Standard,PayPal,Returned
+1385,296,2024-03-18,Same Day,PayPal,Completed
+1005,149,2024-03-19,Standard,PayPal,Completed
+1255,112,2024-03-19,Express,Credit Card,Completed
+1875,221,2024-03-21,Express,Credit Card,Completed
+1883,194,2024-03-22,Standard,Gift Card,Completed
+1371,350,2024-03-23,Standard,Credit Card,Completed
+1163,106,2024-03-24,Express,Credit Card,Completed
+1199,102,2024-03-24,Standard,Credit Card,Completed
+1811,187,2024-03-25,Standard,Debit Card,Completed
+1697,106,2024-03-26,Standard,Credit Card,Returned
+1436,235,2024-03-27,Standard,Credit Card,Completed
+1027,147,2024-03-28,Standard,Debit Card,Completed
+1332,220,2024-03-28,Same Day,Debit Card,Completed
+2138,311,2024-03-29,Standard,PayPal,Completed
+1324,330,2024-03-31,Standard,PayPal,Completed
+1946,132,2024-03-31,Express,Credit Card,Completed
+1500,308,2024-04-03,Standard,Credit Card,Completed
+1571,206,2024-04-03,Standard,Credit Card,Completed
+1425,226,2024-04-04,Standard,Gift Card,Completed
+1858,287,2024-04-05,Standard,Credit Card,Completed
+2032,229,2024-04-05,Standard,PayPal,Completed
+1072,139,2024-04-06,Express,Credit Card,Completed
+1223,285,2024-04-06,Express,PayPal,Completed
+1344,256,2024-04-06,Express,Credit Card,Completed
+1829,299,2024-04-06,Standard,PayPal,Completed
+1549,278,2024-04-07,Express,Debit Card,Completed
+2053,339,2024-04-07,Same Day,PayPal,Completed
+1060,311,2024-04-11,Standard,Debit Card,Completed
+1638,344,2024-04-12,Standard,Credit Card,Completed
+2030,332,2024-04-14,Express,Credit Card,Completed
+1318,268,2024-04-15,Standard,PayPal,Completed
+1926,320,2024-04-15,Express,PayPal,Completed
+2130,135,2024-04-15,Same Day,Debit Card,Completed
+1810,219,2024-04-16,Standard,Credit Card,Completed
+1931,272,2024-04-16,Standard,Credit Card,Completed
+1077,203,2024-04-17,Standard,Credit Card,Cancelled
+1265,156,2024-04-17,Express,Credit Card,Completed
+2133,251,2024-04-18,Standard,PayPal,Completed
+1900,275,2024-04-19,Standard,Credit Card,Completed
+2146,170,2024-04-20,Express,Credit Card,Completed
+1240,250,2024-04-21,Standard,Credit Card,Completed
+1478,262,2024-04-21,Standard,PayPal,Completed
+1259,204,2024-04-22,Standard,PayPal,Completed
+1395,193,2024-04-22,Standard,Gift Card,Completed
+1398,176,2024-04-23,Standard,Credit Card,Completed
+1910,145,2024-04-23,Standard,Credit Card,Completed
+2037,202,2024-04-23,Standard,PayPal,Completed
+2024,117,2024-04-24,Standard,PayPal,Completed
+1366,173,2024-04-25,Standard,Credit Card,Completed
+1896,303,2024-04-25,Standard,Credit Card,Completed
+2056,311,2024-04-25,Express,Credit Card,Completed
+2095,123,2024-04-27,Standard,PayPal,Completed
+1285,251,2024-04-28,Express,Debit Card,Completed
+1629,109,2024-04-29,Express,PayPal,Completed
+1789,262,2024-04-29,Same Day,PayPal,Completed
+1864,270,2024-04-29,Standard,Credit Card,Completed
+1648,221,2024-04-30,Standard,PayPal,Returned
+1165,235,2024-05-02,Standard,PayPal,Completed
+1503,157,2024-05-04,Standard,PayPal,Completed
+1672,106,2024-05-05,Standard,Credit Card,Completed
+1468,254,2024-05-06,Express,Debit Card,Completed
+1556,272,2024-05-06,Standard,PayPal,Completed
+1625,176,2024-05-06,Standard,PayPal,Completed
+1560,269,2024-05-07,Standard,Credit Card,Completed
+1601,262,2024-05-07,Standard,Credit Card,Completed
+1710,264,2024-05-07,Standard,Credit Card,Completed
+1809,187,2024-05-09,Express,Credit Card,Completed
+2039,176,2024-05-11,Standard,PayPal,Completed
+1891,338,2024-05-13,Standard,PayPal,Completed
+1693,209,2024-05-15,Standard,Credit Card,Completed
+1714,156,2024-05-15,Standard,PayPal,Completed
+1142,244,2024-05-16,Standard,Debit Card,Returned
+1373,150,2024-05-16,Standard,Credit Card,Completed
+2188,321,2024-05-17,Standard,Credit Card,Completed
+1762,334,2024-05-18,Standard,Credit Card,Completed
+1971,154,2024-05-18,Standard,PayPal,Completed
+1174,284,2024-05-19,Express,Debit Card,Completed
+1288,201,2024-05-19,Standard,Credit Card,Completed
+1306,155,2024-05-19,Express,Credit Card,Completed
+1853,307,2024-05-20,Standard,PayPal,Completed
+1981,254,2024-05-21,Express,Credit Card,Completed
+1939,189,2024-05-22,Express,PayPal,Completed
+2172,343,2024-05-22,Standard,PayPal,Completed
+1282,233,2024-05-23,Express,Credit Card,Completed
+1857,207,2024-05-23,Standard,Credit Card,Completed
+2014,301,2024-05-23,Standard,Gift Card,Completed
+1607,199,2024-05-24,Express,Credit Card,Completed
+2069,118,2024-05-24,Same Day,Credit Card,Completed
+1521,206,2024-05-27,Standard,Credit Card,Completed
+1813,278,2024-05-27,Express,Credit Card,Returned
+1104,309,2024-05-28,Standard,Debit Card,Completed
+2005,238,2024-05-28,Standard,Credit Card,Completed
+1568,156,2024-05-29,Express,Credit Card,Completed
+1802,272,2024-05-29,Standard,Credit Card,Completed
+1861,186,2024-05-29,Standard,PayPal,Returned
+2193,215,2024-05-29,Express,Debit Card,Completed
+1803,185,2024-05-30,Express,Debit Card,Completed
+1384,111,2024-05-31,Standard,Credit Card,Completed
+1496,152,2024-05-31,Standard,PayPal,Completed
+1757,289,2024-05-31,Standard,PayPal,Completed
+1988,171,2024-06-01,Standard,PayPal,Returned
+1619,330,2024-06-02,Standard,Debit Card,Completed
+1694,199,2024-06-02,Express,Debit Card,Completed
+1868,122,2024-06-02,Express,Credit Card,Completed
+1418,331,2024-06-03,Standard,Credit Card,Completed
+1383,288,2024-06-04,Standard,Credit Card,Completed
+1888,125,2024-06-05,Express,Credit Card,Completed
+1391,249,2024-06-06,Express,PayPal,Cancelled
+1603,349,2024-06-06,Same Day,PayPal,Completed
+1804,177,2024-06-06,Express,Credit Card,Completed
+2183,229,2024-06-08,Standard,Credit Card,Completed
+2184,282,2024-06-09,Express,Credit Card,Completed
+1554,197,2024-06-10,Standard,PayPal,Returned
+2134,124,2024-06-10,Standard,Credit Card,Completed
+1462,295,2024-06-11,Express,PayPal,Completed
+1735,335,2024-06-11,Standard,Credit Card,Completed
+1904,327,2024-06-11,Standard,Credit Card,Completed
+1409,292,2024-06-13,Standard,Gift Card,Completed
+1830,276,2024-06-14,Standard,Credit Card,Completed
+1933,120,2024-06-15,Express,PayPal,Completed
+1119,332,2024-06-16,Standard,Credit Card,Completed
+1360,146,2024-06-17,Standard,Credit Card,Completed
+1870,152,2024-06-17,Express,Credit Card,Completed
+1605,244,2024-06-18,Standard,Credit Card,Completed
+1328,202,2024-06-20,Same Day,Gift Card,Completed
+1424,186,2024-06-21,Express,PayPal,Completed
+1630,169,2024-06-21,Standard,Credit Card,Completed
+1759,163,2024-06-21,Standard,Credit Card,Completed
+1050,138,2024-06-22,Standard,PayPal,Completed
+1764,292,2024-06-22,Standard,Credit Card,Completed
+1626,338,2024-06-24,Standard,Credit Card,Completed
+1567,175,2024-06-26,Same Day,Credit Card,Completed
+1137,297,2024-06-27,Express,Credit Card,Completed
+1678,223,2024-06-27,Standard,Credit Card,Completed
+1699,138,2024-06-27,Standard,Credit Card,Completed
+1396,168,2024-06-28,Same Day,Credit Card,Completed
+1114,299,2024-06-29,Standard,Credit Card,Completed
+1157,120,2024-06-29,Express,Credit Card,Completed
+1428,315,2024-06-29,Express,Credit Card,Completed
+1161,187,2024-06-30,Standard,Credit Card,Completed
+2088,180,2024-06-30,Standard,Credit Card,Returned
+1124,144,2024-07-03,Standard,Credit Card,Completed
+1272,250,2024-07-03,Standard,Debit Card,Completed
+1008,228,2024-07-04,Standard,Credit Card,Cancelled
+1171,306,2024-07-05,Standard,Credit Card,Completed
+1974,341,2024-07-05,Same Day,Debit Card,Completed
+2158,178,2024-07-05,Standard,PayPal,Completed
+1543,120,2024-07-06,Standard,Credit Card,Completed
+1807,284,2024-07-06,Express,Debit Card,Completed
+1866,257,2024-07-06,Standard,Credit Card,Completed
+1095,227,2024-07-08,Standard,Debit Card,Completed
+1597,202,2024-07-09,Standard,Debit Card,Completed
+1729,141,2024-07-09,Standard,Credit Card,Completed
+1347,176,2024-07-10,Standard,Credit Card,Completed
+1416,339,2024-07-10,Standard,Credit Card,Completed
+1096,320,2024-07-11,Express,Credit Card,Completed
+1415,311,2024-07-11,Express,Credit Card,Completed
+2121,201,2024-07-11,Standard,PayPal,Completed
+1892,175,2024-07-12,Standard,PayPal,Completed
+1927,204,2024-07-12,Express,Credit Card,Completed
+2120,160,2024-07-12,Express,Credit Card,Completed
+1720,311,2024-07-13,Standard,Credit Card,Completed
+1173,332,2024-07-14,Standard,PayPal,Completed
+1557,303,2024-07-14,Standard,Credit Card,Completed
+1564,156,2024-07-14,Standard,PayPal,Completed
+1417,258,2024-07-15,Standard,Credit Card,Completed
+1948,313,2024-07-15,Standard,PayPal,Completed
+2057,345,2024-07-15,Express,PayPal,Completed
+2119,149,2024-07-15,Standard,PayPal,Completed
+1295,106,2024-07-16,Express,Gift Card,Cancelled
+2127,162,2024-07-16,Standard,PayPal,Completed
+1015,282,2024-07-18,Express,PayPal,Completed
+2026,345,2024-07-18,Standard,Credit Card,Completed
+1483,102,2024-07-19,Standard,Credit Card,Completed
+1580,116,2024-07-19,Standard,PayPal,Completed
+1686,223,2024-07-19,Same Day,Credit Card,Completed
+1825,123,2024-07-19,Standard,Gift Card,Completed
+2046,262,2024-07-19,Standard,Credit Card,Completed
+1194,123,2024-07-24,Standard,Credit Card,Completed
+1968,292,2024-07-24,Express,Credit Card,Completed
+2096,335,2024-07-24,Standard,PayPal,Completed
+1145,345,2024-07-25,Express,Credit Card,Completed
+1275,173,2024-07-27,Standard,Credit Card,Completed
+1880,124,2024-07-28,Express,Credit Card,Completed
+2185,237,2024-07-28,Standard,PayPal,Completed
+1126,107,2024-07-29,Standard,PayPal,Completed
+1363,186,2024-07-29,Express,Debit Card,Completed
+2147,166,2024-07-29,Express,Credit Card,Completed
+1984,295,2024-07-30,Express,PayPal,Completed
+1117,221,2024-07-31,Standard,Credit Card,Completed
+1178,332,2024-07-31,Express,Debit Card,Completed
+1768,321,2024-07-31,Standard,Debit Card,Completed
+2198,122,2024-07-31,Express,Debit Card,Completed
+1132,148,2024-08-01,Express,PayPal,Completed
+1542,344,2024-08-01,Standard,Credit Card,Returned
+1016,320,2024-08-02,Standard,Credit Card,Completed
+1063,127,2024-08-02,Standard,Credit Card,Completed
+1203,228,2024-08-02,Standard,Credit Card,Completed
+1020,155,2024-08-03,Standard,PayPal,Completed
+1374,312,2024-08-04,Standard,Credit Card,Completed
+1639,263,2024-08-04,Standard,PayPal,Cancelled
+2066,105,2024-08-04,Standard,Credit Card,Completed
+1342,338,2024-08-05,Same Day,Debit Card,Completed
+1831,322,2024-08-06,Standard,Credit Card,Completed
+1215,245,2024-08-07,Standard,PayPal,Completed
+1884,220,2024-08-07,Standard,Credit Card,Completed
+1006,155,2024-08-10,Standard,Credit Card,Completed
+2091,248,2024-08-10,Standard,Credit Card,Returned
+1152,296,2024-08-11,Express,Credit Card,Completed
+1838,293,2024-08-11,Standard,Debit Card,Completed
+1949,123,2024-08-11,Standard,Credit Card,Completed
+1911,266,2024-08-12,Express,Credit Card,Completed
+1599,309,2024-08-14,Standard,Credit Card,Completed
+1938,115,2024-08-14,Standard,Debit Card,Completed
+2011,240,2024-08-14,Standard,Credit Card,Completed
+1209,280,2024-08-16,Standard,Credit Card,Completed
+1291,135,2024-08-16,Express,PayPal,Completed
+1754,212,2024-08-17,Standard,PayPal,Completed
+1989,230,2024-08-17,Standard,Credit Card,Completed
+2181,174,2024-08-17,Standard,Credit Card,Completed
+1794,337,2024-08-19,Same Day,Credit Card,Completed
+2113,261,2024-08-19,Standard,PayPal,Returned
+2143,244,2024-08-20,Same Day,Credit Card,Completed
+1080,126,2024-08-21,Express,Credit Card,Completed
+1130,105,2024-08-21,Standard,PayPal,Completed
+1544,169,2024-08-21,Express,PayPal,Completed
+1293,290,2024-08-22,Standard,Credit Card,Completed
+1406,113,2024-08-22,Express,Credit Card,Completed
+1498,307,2024-08-22,Express,Debit Card,Completed
+1797,147,2024-08-22,Standard,PayPal,Completed
+1375,138,2024-08-24,Express,Credit Card,Completed
+1101,191,2024-08-25,Standard,Credit Card,Completed
+1548,163,2024-08-25,Standard,Debit Card,Completed
+1065,284,2024-08-27,Express,PayPal,Completed
+1688,182,2024-08-27,Standard,Credit Card,Completed
+1711,258,2024-08-27,Express,PayPal,Completed
+2093,175,2024-08-30,Standard,Credit Card,Completed
+1239,205,2024-08-31,Express,PayPal,Completed
+1627,183,2024-08-31,Standard,Debit Card,Completed
+1782,126,2024-08-31,Standard,PayPal,Returned
+2054,180,2024-08-31,Express,Credit Card,Returned
+1586,273,2024-09-01,Same Day,Credit Card,Completed
+1652,325,2024-09-02,Standard,Credit Card,Returned
+1026,149,2024-09-03,Standard,Credit Card,Completed
+1561,142,2024-09-03,Express,Debit Card,Completed
+1753,114,2024-09-05,Standard,Credit Card,Completed
+2074,188,2024-09-05,Standard,Credit Card,Completed
+1253,161,2024-09-06,Standard,Debit Card,Completed
+2072,229,2024-09-06,Standard,Debit Card,Completed
+2108,274,2024-09-06,Express,Debit Card,Completed
+1035,309,2024-09-07,Standard,PayPal,Completed
+1502,112,2024-09-07,Same Day,PayPal,Returned
+1778,255,2024-09-07,Express,PayPal,Completed
+1116,173,2024-09-09,Standard,Gift Card,Returned
+1643,335,2024-09-09,Standard,PayPal,Completed
+1908,121,2024-09-09,Standard,Debit Card,Completed
+1402,328,2024-09-10,Express,Credit Card,Completed
+1695,124,2024-09-10,Standard,PayPal,Returned
+1752,348,2024-09-10,Standard,Credit Card,Completed
+1086,156,2024-09-12,Express,Gift Card,Completed
+1110,283,2024-09-12,Same Day,Credit Card,Completed
+1728,284,2024-09-12,Express,Credit Card,Completed
+1622,274,2024-09-14,Standard,Credit Card,Completed
+1257,318,2024-09-15,Standard,Credit Card,Completed
+1421,251,2024-09-15,Express,Credit Card,Completed
+1708,320,2024-09-15,Standard,PayPal,Completed
+1414,266,2024-09-16,Standard,Credit Card,Completed
+1715,168,2024-09-16,Express,Credit Card,Cancelled
+1943,307,2024-09-16,Standard,Credit Card,Completed
+1179,153,2024-09-17,Express,Gift Card,Completed
+1615,245,2024-09-18,Standard,PayPal,Completed
+1675,338,2024-09-18,Standard,Credit Card,Completed
+1546,286,2024-09-19,Same Day,Credit Card,Completed
+1760,180,2024-09-19,Standard,PayPal,Completed
+1919,236,2024-09-19,Standard,Credit Card,Completed
+2044,334,2024-09-19,Standard,Credit Card,Completed
+1474,324,2024-09-21,Express,Credit Card,Completed
+1455,239,2024-09-22,Standard,Debit Card,Completed
+1657,205,2024-09-22,Standard,Credit Card,Completed
+1936,348,2024-09-22,Express,Credit Card,Completed
+1175,210,2024-09-23,Express,Credit Card,Completed
+1261,135,2024-09-23,Standard,PayPal,Completed
+1484,175,2024-09-23,Express,Debit Card,Completed
+1863,270,2024-09-23,Same Day,Debit Card,Completed
+1690,134,2024-09-24,Same Day,Credit Card,Completed
+1878,122,2024-09-24,Express,Credit Card,Completed
+2132,313,2024-09-24,Standard,Credit Card,Completed
+1664,330,2024-09-25,Standard,Credit Card,Completed
+2063,226,2024-09-25,Same Day,Credit Card,Completed
+1377,139,2024-09-26,Express,Credit Card,Completed
+1749,322,2024-09-26,Standard,Credit Card,Completed
+2192,126,2024-09-26,Standard,Credit Card,Completed
+1089,180,2024-09-27,Standard,Credit Card,Completed
+1091,343,2024-09-28,Same Day,PayPal,Completed
+1905,176,2024-09-28,Standard,Credit Card,Completed
+1494,307,2024-09-29,Express,Credit Card,Completed
+1903,163,2024-09-29,Express,Credit Card,Completed
+1024,236,2024-10-02,Standard,PayPal,Completed
+1390,289,2024-10-03,Standard,PayPal,Completed
+1534,311,2024-10-03,Express,PayPal,Cancelled
+1182,209,2024-10-04,Standard,PayPal,Completed
+1507,270,2024-10-05,Standard,PayPal,Completed
+1596,251,2024-10-05,Standard,Credit Card,Completed
+2128,205,2024-10-06,Express,PayPal,Completed
+1393,280,2024-10-07,Standard,Gift Card,Completed
+1999,248,2024-10-07,Standard,PayPal,Completed
+2166,144,2024-10-07,Standard,Credit Card,Completed
+1064,275,2024-10-08,Standard,Gift Card,Cancelled
+1771,262,2024-10-08,Standard,Debit Card,Completed
+1233,229,2024-10-09,Standard,Credit Card,Completed
+1388,131,2024-10-09,Standard,Gift Card,Completed
+1703,226,2024-10-09,Express,Gift Card,Completed
+1793,309,2024-10-10,Express,Credit Card,Completed
+1876,213,2024-10-10,Express,Credit Card,Completed
+1945,323,2024-10-10,Standard,Credit Card,Completed
+2123,109,2024-10-10,Standard,PayPal,Completed
+1242,266,2024-10-11,Standard,Debit Card,Completed
+1443,309,2024-10-11,Standard,PayPal,Completed
+1405,304,2024-10-12,Standard,PayPal,Completed
+1788,335,2024-10-12,Express,PayPal,Completed
+1897,188,2024-10-13,Express,Credit Card,Completed
+1950,211,2024-10-13,Standard,Credit Card,Completed
+1350,113,2024-10-14,Express,PayPal,Completed
+1746,181,2024-10-14,Express,Gift Card,Completed
+1352,223,2024-10-15,Express,Credit Card,Completed
+1370,290,2024-10-15,Express,PayPal,Completed
+1616,339,2024-10-15,Standard,Credit Card,Returned
+2160,313,2024-10-15,Standard,Credit Card,Completed
+1924,109,2024-10-16,Standard,Credit Card,Completed
+1928,269,2024-10-16,Standard,PayPal,Completed
+2017,115,2024-10-16,Standard,Credit Card,Completed
+1146,229,2024-10-18,Express,Credit Card,Completed
+1156,268,2024-10-19,Express,Credit Card,Completed
+1187,294,2024-10-19,Express,Credit Card,Completed
+1394,299,2024-10-19,Express,Debit Card,Completed
+1747,205,2024-10-20,Express,Credit Card,Completed
+1323,137,2024-10-21,Standard,Credit Card,Completed
+1644,102,2024-10-21,Express,Gift Card,Completed
+1996,158,2024-10-21,Standard,Gift Card,Completed
+1676,118,2024-10-25,Express,PayPal,Completed
+2073,129,2024-10-25,Same Day,Credit Card,Completed
+1271,267,2024-10-26,Standard,PayPal,Completed
+1745,242,2024-10-26,Express,Credit Card,Returned
+1982,173,2024-10-26,Standard,Gift Card,Completed
+1133,243,2024-10-27,Standard,Credit Card,Completed
+2086,289,2024-10-27,Standard,Credit Card,Completed
+1346,199,2024-10-28,Express,PayPal,Completed
+1606,133,2024-10-28,Same Day,Debit Card,Completed
+1818,132,2024-10-28,Standard,PayPal,Completed
+1054,238,2024-10-29,Standard,PayPal,Completed
+1608,149,2024-10-29,Same Day,Gift Card,Completed
+1671,290,2024-10-29,Express,PayPal,Completed
+2139,141,2024-10-29,Standard,Credit Card,Completed
+1353,297,2024-10-30,Express,PayPal,Completed
+1979,261,2024-10-30,Express,Credit Card,Completed
+1998,296,2024-10-30,Same Day,PayPal,Completed
+1248,301,2024-10-31,Same Day,Credit Card,Completed
+1337,128,2024-10-31,Standard,PayPal,Cancelled
+1656,280,2024-10-31,Standard,PayPal,Completed
+1168,106,2024-11-01,Standard,Credit Card,Completed
+2048,110,2024-11-01,Express,PayPal,Returned
+1637,304,2024-11-02,Standard,Credit Card,Completed
+1776,295,2024-11-02,Same Day,Credit Card,Completed
+1188,223,2024-11-03,Standard,Credit Card,Completed
+1234,314,2024-11-03,Standard,Credit Card,Returned
+1276,120,2024-11-03,Standard,Debit Card,Completed
+1731,289,2024-11-03,Express,Credit Card,Completed
+1921,323,2024-11-03,Standard,Credit Card,Completed
+2019,257,2024-11-03,Standard,Credit Card,Completed
+1241,179,2024-11-04,Standard,Debit Card,Completed
+1576,220,2024-11-04,Same Day,Gift Card,Completed
+1719,323,2024-11-04,Standard,Credit Card,Returned
+1090,313,2024-11-05,Standard,Credit Card,Completed
+1336,231,2024-11-05,Standard,Credit Card,Completed
+1509,257,2024-11-06,Standard,PayPal,Completed
+1814,187,2024-11-06,Standard,PayPal,Completed
+2033,267,2024-11-06,Standard,Credit Card,Completed
+2125,289,2024-11-06,Same Day,Credit Card,Returned
+1078,339,2024-11-07,Standard,PayPal,Cancelled
+1322,240,2024-11-07,Standard,Credit Card,Completed
+1348,211,2024-11-07,Standard,PayPal,Completed
+1709,296,2024-11-07,Express,Credit Card,Completed
+1907,320,2024-11-07,Standard,Debit Card,Returned
+1009,324,2024-11-08,Express,PayPal,Completed
+1464,206,2024-11-08,Standard,Debit Card,Completed
+1469,281,2024-11-08,Express,Debit Card,Returned
+1508,183,2024-11-08,Standard,PayPal,Completed
+1537,191,2024-11-08,Express,Credit Card,Completed
+1879,131,2024-11-08,Standard,Credit Card,Completed
+1254,186,2024-11-09,Standard,Credit Card,Completed
+1325,271,2024-11-09,Standard,Credit Card,Completed
+1773,308,2024-11-09,Standard,PayPal,Completed
+2081,292,2024-11-09,Express,Credit Card,Completed
+1386,324,2024-11-10,Express,Credit Card,Completed
+1620,191,2024-11-10,Express,PayPal,Returned
+1660,210,2024-11-11,Standard,Credit Card,Completed
+2059,216,2024-11-11,Same Day,Credit Card,Returned
+1748,264,2024-11-12,Standard,PayPal,Completed
+1573,220,2024-11-13,Express,Debit Card,Completed
+2000,215,2024-11-13,Standard,Credit Card,Completed
+2118,235,2024-11-13,Standard,Credit Card,Completed
+1224,266,2024-11-14,Express,Credit Card,Completed
+1431,188,2024-11-14,Standard,PayPal,Completed
+1967,334,2024-11-14,Express,Credit Card,Completed
+2177,271,2024-11-14,Standard,Credit Card,Completed
+1351,112,2024-11-16,Standard,Credit Card,Completed
+1821,151,2024-11-16,Express,Credit Card,Completed
+1862,165,2024-11-16,Standard,Credit Card,Completed
+1378,198,2024-11-17,Express,Credit Card,Returned
+1400,112,2024-11-17,Express,PayPal,Completed
+1612,147,2024-11-17,Express,PayPal,Completed
+2018,230,2024-11-17,Standard,Credit Card,Completed
+2070,127,2024-11-17,Standard,Credit Card,Completed
+1010,113,2024-11-19,Standard,Debit Card,Returned
+1227,144,2024-11-19,Express,Credit Card,Completed
+1379,114,2024-11-19,Standard,PayPal,Completed
+1958,162,2024-11-19,Express,Credit Card,Completed
+2176,257,2024-11-19,Same Day,Debit Card,Completed
+1221,290,2024-11-20,Standard,Credit Card,Completed
+1527,186,2024-11-20,Standard,Credit Card,Completed
+1172,242,2024-11-21,Same Day,PayPal,Completed
+1837,142,2024-11-21,Standard,Credit Card,Completed
+1105,309,2024-11-22,Standard,Credit Card,Completed
+1566,281,2024-11-22,Standard,Credit Card,Completed
+1732,261,2024-11-23,Express,Credit Card,Completed
+1822,134,2024-11-23,Express,Credit Card,Completed
+2126,209,2024-11-24,Standard,PayPal,Completed
+2182,272,2024-11-24,Standard,Debit Card,Cancelled
+1112,346,2024-11-25,Standard,PayPal,Completed
+1313,169,2024-11-25,Same Day,Credit Card,Completed
+1454,118,2024-11-25,Express,Credit Card,Completed
+1457,122,2024-11-25,Express,PayPal,Completed
+1524,170,2024-11-25,Standard,Credit Card,Completed
+1801,297,2024-11-25,Express,Credit Card,Returned
+1920,118,2024-11-25,Standard,Debit Card,Completed
+1960,139,2024-11-25,Standard,PayPal,Completed
+2041,155,2024-11-25,Express,Credit Card,Completed
+2161,270,2024-11-25,Standard,Credit Card,Completed
+1283,332,2024-11-26,Express,Debit Card,Completed
+1287,322,2024-11-26,Standard,Debit Card,Completed
+1314,244,2024-11-26,Express,Credit Card,Completed
+1138,309,2024-11-27,Standard,Gift Card,Completed
+1059,268,2024-11-28,Standard,Debit Card,Completed
+1499,281,2024-11-29,Same Day,Debit Card,Completed
+1642,153,2024-11-29,Same Day,Credit Card,Completed
+1071,204,2024-11-30,Express,PayPal,Completed
+1635,197,2024-11-30,Express,Credit Card,Completed
+1214,184,2024-12-01,Express,PayPal,Completed
+1420,264,2024-12-01,Express,Credit Card,Completed
+1356,280,2024-12-02,Express,Credit Card,Completed
+1665,146,2024-12-02,Express,PayPal,Cancelled
+1681,233,2024-12-02,Express,PayPal,Completed
+2190,150,2024-12-02,Standard,Credit Card,Completed
+1964,205,2024-12-03,Standard,Credit Card,Completed
+2099,287,2024-12-03,Same Day,Credit Card,Completed
+1334,175,2024-12-04,Standard,Credit Card,Completed
+1442,272,2024-12-04,Express,PayPal,Returned
+1476,158,2024-12-06,Same Day,Credit Card,Completed
+2110,264,2024-12-06,Same Day,Credit Card,Completed
+1263,271,2024-12-07,Express,Credit Card,Completed
+1833,294,2024-12-07,Express,Credit Card,Completed
+1475,183,2024-12-08,Express,Credit Card,Completed
+1595,146,2024-12-08,Same Day,Credit Card,Completed
+1692,304,2024-12-09,Standard,Debit Card,Completed
+1761,185,2024-12-09,Express,Debit Card,Completed
+1787,186,2024-12-09,Express,PayPal,Completed
+1444,113,2024-12-10,Standard,Credit Card,Completed
+1819,347,2024-12-10,Express,Gift Card,Completed
+1129,180,2024-12-11,Express,Credit Card,Completed
+1465,280,2024-12-11,Standard,Credit Card,Completed
+1550,210,2024-12-11,Standard,Credit Card,Completed
+1744,334,2024-12-11,Standard,Credit Card,Completed
+2090,336,2024-12-11,Standard,Credit Card,Completed
+1047,248,2024-12-12,Express,Credit Card,Completed
+1166,239,2024-12-12,Express,Credit Card,Completed
+1774,108,2024-12-12,Same Day,Credit Card,Completed
+2155,222,2024-12-12,Standard,PayPal,Returned
+1438,117,2024-12-13,Express,Credit Card,Completed
+1701,267,2024-12-13,Standard,PayPal,Cancelled
+1245,346,2024-12-14,Express,PayPal,Completed
+1504,149,2024-12-14,Standard,Credit Card,Completed
+2035,302,2024-12-14,Standard,PayPal,Completed
+1011,232,2024-12-15,Standard,Credit Card,Completed
+1651,109,2024-12-15,Standard,PayPal,Completed
+1941,241,2024-12-15,Standard,Credit Card,Completed
+1177,280,2024-12-16,Express,PayPal,Completed
+1340,272,2024-12-16,Standard,Debit Card,Completed
+1349,119,2024-12-16,Standard,Credit Card,Completed
+1355,346,2024-12-16,Standard,Credit Card,Completed
+2104,260,2024-12-16,Express,Credit Card,Completed
+2200,123,2024-12-16,Express,Gift Card,Completed
+1365,202,2024-12-17,Same Day,Credit Card,Completed
+2137,149,2024-12-17,Standard,Credit Card,Completed
+1067,136,2024-12-18,Standard,PayPal,Completed
+1308,151,2024-12-18,Express,PayPal,Completed
+2109,304,2024-12-19,Same Day,Credit Card,Completed
+1407,337,2024-12-20,Express,PayPal,Completed
+1980,253,2024-12-20,Standard,PayPal,Completed
+1049,289,2024-12-21,Standard,Gift Card,Completed
+1204,116,2024-12-21,Express,Debit Card,Completed
+1212,171,2024-12-21,Express,PayPal,Completed
+1736,162,2024-12-21,Standard,Gift Card,Completed
+1940,311,2024-12-21,Standard,Debit Card,Completed
+2023,123,2024-12-21,Standard,Credit Card,Completed
+2131,120,2024-12-21,Standard,Credit Card,Completed
+1733,163,2024-12-22,Standard,Credit Card,Completed
+1929,274,2024-12-22,Standard,Credit Card,Completed
+1824,239,2024-12-23,Standard,Credit Card,Completed
+1887,116,2024-12-23,Standard,Credit Card,Completed
+2102,151,2024-12-23,Express,Credit Card,Returned
+2117,206,2024-12-23,Standard,Credit Card,Completed
+1294,285,2024-12-24,Same Day,Gift Card,Completed
+1205,169,2024-12-25,Express,Debit Card,Completed
+1523,279,2024-12-25,Same Day,Debit Card,Completed
+1646,213,2024-12-25,Express,PayPal,Completed
+1986,143,2024-12-25,Standard,Debit Card,Completed
+1238,180,2024-12-26,Standard,Gift Card,Completed
+1978,288,2024-12-26,Express,Debit Card,Cancelled
+1032,294,2024-12-27,Standard,Debit Card,Completed
+1812,112,2024-12-27,Express,PayPal,Completed
+1781,273,2024-12-29,Express,PayPal,Completed
+1023,228,2024-12-30,Standard,PayPal,Completed
+2061,179,2024-12-30,Standard,Credit Card,Completed
+1955,340,2024-12-31,Express,Credit Card,Completed
+2112,317,2024-12-31,Express,Credit Card,Completed
+2144,235,2024-12-31,Standard,Credit Card,Completed

@@ -1,0 +1,251 @@
+customer_id,first_name,last_name,email,customer_segment,city,state,region,signup_date
+101,Samantha,Anderson,samantha.anderson101@example.com,Consumer,Detroit,MI,Midwest,2022-08-17
+102,Sarah,Wilson,sarah.wilson102@example.com,Corporate,Newark,NJ,East,2022-02-02
+103,Patricia,Lopez,patricia.lopez103@example.com,Consumer,Boston,MA,East,2023-10-28
+104,Rachel,Cooper,rachel.cooper104@example.com,Consumer,Atlanta,GA,South,2022-01-07
+105,Christopher,Diaz,christopher.diaz105@example.com,Consumer,San Francisco,CA,West,2022-12-11
+106,Susan,Lopez,susan.lopez106@example.com,Consumer,Minneapolis,MN,Midwest,2023-09-11
+107,Kimberly,Garcia,kimberly.garcia107@example.com,Corporate,Newark,NJ,East,2022-03-22
+108,Stephen,Nguyen,stephen.nguyen108@example.com,Small Business,Detroit,MI,Midwest,2022-03-13
+109,Jennifer,Robinson,jennifer.robinson109@example.com,Corporate,Boston,MA,East,2022-04-14
+110,Timothy,Scott,timothy.scott110@example.com,Consumer,Detroit,MI,Midwest,2023-01-15
+111,Amanda,Clark,amanda.clark111@example.com,Corporate,Boston,MA,East,2023-07-01
+112,Carolyn,Young,carolyn.young112@example.com,Consumer,Atlanta,GA,South,2023-10-18
+113,Alexander,Bailey,alexander.bailey113@example.com,Consumer,Chicago,IL,Midwest,2022-08-23
+114,Robert,Green,robert.green114@example.com,Consumer,Boston,MA,East,2023-08-04
+115,Catherine,Green,catherine.green115@example.com,Consumer,Charlotte,NC,South,2023-10-21
+116,Ryan,Jackson,ryan.jackson116@example.com,Consumer,Seattle,WA,West,2023-08-22
+117,Jason,Howard,jason.howard117@example.com,Consumer,San Francisco,CA,West,2023-06-06
+118,Amy,Lopez,amy.lopez118@example.com,Corporate,Boston,MA,East,2023-10-05
+119,Christopher,Diaz,christopher.diaz119@example.com,Corporate,Charlotte,NC,South,2023-09-03
+120,Cynthia,Ortiz,cynthia.ortiz120@example.com,Consumer,New York,NY,East,2023-11-30
+121,Jonathan,Wright,jonathan.wright121@example.com,Corporate,Chicago,IL,Midwest,2022-10-28
+122,Sharon,Lee,sharon.lee122@example.com,Consumer,Detroit,MI,Midwest,2023-06-04
+123,Susan,Hill,susan.hill123@example.com,Small Business,San Francisco,CA,West,2023-01-18
+124,Christopher,Cooper,christopher.cooper124@example.com,Small Business,Philadelphia,PA,East,2023-05-16
+125,John,Anderson,john.anderson125@example.com,Small Business,Detroit,MI,Midwest,2022-03-01
+126,Donald,Reed,donald.reed126@example.com,Small Business,Newark,NJ,East,2022-03-12
+127,Jonathan,Taylor,jonathan.taylor127@example.com,Consumer,Dallas,TX,South,2022-09-29
+128,Angela,Cox,angela.cox128@example.com,Consumer,San Francisco,CA,West,2022-11-16
+129,Stephanie,Mitchell,stephanie.mitchell129@example.com,Consumer,Houston,TX,South,2022-09-11
+130,Mark,Rodriguez,mark.rodriguez130@example.com,Consumer,San Francisco,CA,West,2022-01-08
+131,Elizabeth,Davis,elizabeth.davis131@example.com,Consumer,Philadelphia,PA,East,2022-03-14
+132,Shirley,Walker,shirley.walker132@example.com,Consumer,Dallas,TX,South,2023-07-07
+133,Thomas,Kelly,thomas.kelly133@example.com,Corporate,Phoenix,AZ,West,2023-02-21
+134,Matthew,Gonzalez,matthew.gonzalez134@example.com,Consumer,Atlanta,GA,South,2023-03-10
+135,Edward,Reyes,edward.reyes135@example.com,Small Business,New York,NY,East,2022-03-04
+136,Stephanie,Baker,stephanie.baker136@example.com,Small Business,Boston,MA,East,2022-07-16
+137,Matthew,Morgan,matthew.morgan137@example.com,Consumer,Dallas,TX,South,2022-10-13
+138,Cynthia,Young,cynthia.young138@example.com,Small Business,Newark,NJ,East,2023-07-18
+139,Richard,Miller,richard.miller139@example.com,Corporate,New York,NY,East,2022-08-31
+140,Nancy,Evans,nancy.evans140@example.com,Consumer,Phoenix,AZ,West,2022-03-02
+141,Nancy,Carter,nancy.carter141@example.com,Consumer,Atlanta,GA,South,2023-04-11
+142,Andrew,Diaz,andrew.diaz142@example.com,Corporate,Dallas,TX,South,2022-07-14
+143,Donna,Ramirez,donna.ramirez143@example.com,Small Business,Philadelphia,PA,East,2022-02-28
+144,Michael,Howard,michael.howard144@example.com,Consumer,Los Angeles,CA,West,2023-06-05
+145,David,White,david.white145@example.com,Consumer,Boston,MA,East,2023-02-18
+146,Jessica,Reed,jessica.reed146@example.com,Consumer,New York,NY,East,2023-03-06
+147,Gregory,Howard,gregory.howard147@example.com,Corporate,Minneapolis,MN,Midwest,2022-07-29
+148,Christine,Green,christine.green148@example.com,Consumer,Dallas,TX,South,2023-11-19
+149,Samuel,Hill,samuel.hill149@example.com,Consumer,New York,NY,East,2023-04-15
+150,Emma,Reed,emma.reed150@example.com,Small Business,Boston,MA,East,2023-06-03
+151,Kimberly,Taylor,kimberly.taylor151@example.com,Small Business,Boston,MA,East,2023-01-14
+152,Andrew,Lee,andrew.lee152@example.com,Consumer,Chicago,IL,Midwest,2023-11-15
+153,Stephen,Hill,stephen.hill153@example.com,Small Business,Boston,MA,East,2022-09-28
+154,Joseph,Wilson,joseph.wilson154@example.com,Corporate,Seattle,WA,West,2022-10-16
+155,Nicole,Clark,nicole.clark155@example.com,Corporate,Seattle,WA,West,2023-06-02
+156,Gary,Allen,gary.allen156@example.com,Small Business,New York,NY,East,2023-10-12
+157,Jason,Scott,jason.scott157@example.com,Consumer,Detroit,MI,Midwest,2023-10-15
+158,Kimberly,Lee,kimberly.lee158@example.com,Corporate,Houston,TX,South,2022-04-25
+159,Elizabeth,Martin,elizabeth.martin159@example.com,Consumer,Detroit,MI,Midwest,2023-03-17
+160,Thomas,Garcia,thomas.garcia160@example.com,Consumer,Philadelphia,PA,East,2022-08-04
+161,Debra,Young,debra.young161@example.com,Corporate,Columbus,OH,Midwest,2023-09-28
+162,Janet,Martin,janet.martin162@example.com,Small Business,San Francisco,CA,West,2022-07-01
+163,Edward,Brown,edward.brown163@example.com,Consumer,Columbus,OH,Midwest,2023-11-17
+164,Jack,Young,jack.young164@example.com,Consumer,Newark,NJ,East,2022-02-09
+165,Jacob,Lewis,jacob.lewis165@example.com,Consumer,Atlanta,GA,South,2022-11-09
+166,Sandra,Lewis,sandra.lewis166@example.com,Consumer,Phoenix,AZ,West,2022-12-03
+167,Emily,Rodriguez,emily.rodriguez167@example.com,Small Business,Minneapolis,MN,Midwest,2023-10-19
+168,Shirley,Phillips,shirley.phillips168@example.com,Corporate,Chicago,IL,Midwest,2022-04-29
+169,Kimberly,Thompson,kimberly.thompson169@example.com,Corporate,Chicago,IL,Midwest,2022-04-22
+170,Scott,Parker,scott.parker170@example.com,Consumer,Columbus,OH,Midwest,2023-09-13
+171,Shirley,Anderson,shirley.anderson171@example.com,Consumer,Seattle,WA,West,2022-02-15
+172,Raymond,Parker,raymond.parker172@example.com,Consumer,Seattle,WA,West,2023-03-18
+173,William,Nelson,william.nelson173@example.com,Corporate,Philadelphia,PA,East,2023-06-04
+174,Michelle,Evans,michelle.evans174@example.com,Consumer,Detroit,MI,Midwest,2022-07-16
+175,Rebecca,Carter,rebecca.carter175@example.com,Corporate,Seattle,WA,West,2023-02-20
+176,Stephen,Smith,stephen.smith176@example.com,Consumer,Phoenix,AZ,West,2023-08-17
+177,Nicole,Adams,nicole.adams177@example.com,Consumer,Dallas,TX,South,2023-06-08
+178,Jacob,Perez,jacob.perez178@example.com,Corporate,Minneapolis,MN,Midwest,2022-04-06
+179,Donald,Flores,donald.flores179@example.com,Consumer,San Francisco,CA,West,2022-01-26
+180,Jennifer,Young,jennifer.young180@example.com,Small Business,Newark,NJ,East,2023-03-01
+181,Benjamin,Kelly,benjamin.kelly181@example.com,Consumer,Charlotte,NC,South,2023-02-14
+182,Ashley,Jackson,ashley.jackson182@example.com,Corporate,New York,NY,East,2023-03-12
+183,Mark,Thompson,mark.thompson183@example.com,Small Business,Houston,TX,South,2023-07-25
+184,Ashley,Thomas,ashley.thomas184@example.com,Consumer,Atlanta,GA,South,2023-03-30
+185,Brandon,Cook,brandon.cook185@example.com,Consumer,Dallas,TX,South,2023-05-02
+186,Laura,King,laura.king186@example.com,Corporate,Columbus,OH,Midwest,2023-10-04
+187,Donald,Scott,donald.scott187@example.com,Consumer,Detroit,MI,Midwest,2022-10-06
+188,Kevin,Green,kevin.green188@example.com,Small Business,Boston,MA,East,2022-06-04
+189,Sandra,Roberts,sandra.roberts189@example.com,Corporate,Los Angeles,CA,West,2023-03-01
+190,Edward,Nelson,edward.nelson190@example.com,Consumer,Houston,TX,South,2022-07-31
+191,Rebecca,Roberts,rebecca.roberts191@example.com,Small Business,Newark,NJ,East,2023-05-04
+192,James,Rivera,james.rivera192@example.com,Consumer,Charlotte,NC,South,2023-07-06
+193,Janet,Cooper,janet.cooper193@example.com,Corporate,Phoenix,AZ,West,2022-08-13
+194,Paul,Parker,paul.parker194@example.com,Consumer,Atlanta,GA,South,2023-11-16
+195,Frank,Phillips,frank.phillips195@example.com,Corporate,Dallas,TX,South,2023-09-30
+196,Jonathan,Brown,jonathan.brown196@example.com,Small Business,New York,NY,East,2023-10-21
+197,Jason,Moore,jason.moore197@example.com,Small Business,Los Angeles,CA,West,2022-09-24
+198,Timothy,Adams,timothy.adams198@example.com,Consumer,Minneapolis,MN,Midwest,2023-01-24
+199,Emily,Turner,emily.turner199@example.com,Consumer,Newark,NJ,East,2022-01-20
+200,Janet,Cooper,janet.cooper200@example.com,Consumer,Detroit,MI,Midwest,2023-10-28
+201,William,Garcia,william.garcia201@example.com,Corporate,San Francisco,CA,West,2022-01-21
+202,Emma,Martin,emma.martin202@example.com,Consumer,Houston,TX,South,2023-08-01
+203,Margaret,Reyes,margaret.reyes203@example.com,Corporate,Detroit,MI,Midwest,2023-09-13
+204,Nicole,Anderson,nicole.anderson204@example.com,Corporate,Seattle,WA,West,2022-04-21
+205,Justin,Brown,justin.brown205@example.com,Small Business,Charlotte,NC,South,2022-07-23
+206,Elizabeth,Ramos,elizabeth.ramos206@example.com,Corporate,Los Angeles,CA,West,2022-11-05
+207,Debra,Kim,debra.kim207@example.com,Small Business,Philadelphia,PA,East,2023-06-30
+208,Jason,Mitchell,jason.mitchell208@example.com,Consumer,Chicago,IL,Midwest,2023-03-07
+209,Gary,Wilson,gary.wilson209@example.com,Consumer,Columbus,OH,Midwest,2022-06-06
+210,Sharon,Thompson,sharon.thompson210@example.com,Corporate,Columbus,OH,Midwest,2023-04-22
+211,Sharon,Ramos,sharon.ramos211@example.com,Consumer,Los Angeles,CA,West,2022-10-13
+212,Laura,Young,laura.young212@example.com,Corporate,Atlanta,GA,South,2022-01-30
+213,Amy,Adams,amy.adams213@example.com,Consumer,Seattle,WA,West,2022-09-22
+214,Carol,Scott,carol.scott214@example.com,Small Business,Chicago,IL,Midwest,2023-06-14
+215,Matthew,Hernandez,matthew.hernandez215@example.com,Consumer,Charlotte,NC,South,2023-07-23
+216,Donald,Stewart,donald.stewart216@example.com,Corporate,Charlotte,NC,South,2022-01-18
+217,Barbara,Nguyen,barbara.nguyen217@example.com,Consumer,Seattle,WA,West,2023-11-11
+218,Justin,Mitchell,justin.mitchell218@example.com,Consumer,Columbus,OH,Midwest,2023-07-18
+219,Kevin,Rivera,kevin.rivera219@example.com,Corporate,Minneapolis,MN,Midwest,2022-09-15
+220,Sandra,Thomas,sandra.thomas220@example.com,Corporate,Chicago,IL,Midwest,2023-07-03
+221,Alexander,White,alexander.white221@example.com,Consumer,Atlanta,GA,South,2023-08-27
+222,Angela,Kim,angela.kim222@example.com,Consumer,Boston,MA,East,2022-10-31
+223,Sandra,Campbell,sandra.campbell223@example.com,Consumer,Boston,MA,East,2022-10-08
+224,Jennifer,Miller,jennifer.miller224@example.com,Corporate,Phoenix,AZ,West,2022-04-16
+225,Mary,Kelly,mary.kelly225@example.com,Consumer,Charlotte,NC,South,2022-12-15
+226,Lisa,Miller,lisa.miller226@example.com,Consumer,Houston,TX,South,2022-03-08
+227,Stephanie,Morales,stephanie.morales227@example.com,Consumer,Boston,MA,East,2022-06-02
+228,Larry,Hill,larry.hill228@example.com,Consumer,Los Angeles,CA,West,2023-07-26
+229,Rebecca,Cox,rebecca.cox229@example.com,Corporate,Phoenix,AZ,West,2023-04-07
+230,Jeffrey,Hill,jeffrey.hill230@example.com,Small Business,Atlanta,GA,South,2023-08-06
+231,Emma,Davis,emma.davis231@example.com,Corporate,Boston,MA,East,2023-10-03
+232,Margaret,King,margaret.king232@example.com,Corporate,San Francisco,CA,West,2022-06-27
+233,Stephen,Martinez,stephen.martinez233@example.com,Consumer,Charlotte,NC,South,2023-09-01
+234,Jacob,Nguyen,jacob.nguyen234@example.com,Consumer,Minneapolis,MN,Midwest,2023-04-10
+235,Elizabeth,Robinson,elizabeth.robinson235@example.com,Small Business,Phoenix,AZ,West,2022-04-28
+236,Helen,Lewis,helen.lewis236@example.com,Corporate,Detroit,MI,Midwest,2022-03-15
+237,Linda,Perez,linda.perez237@example.com,Corporate,Columbus,OH,Midwest,2022-05-08
+238,Cynthia,Hill,cynthia.hill238@example.com,Corporate,Columbus,OH,Midwest,2023-03-25
+239,David,Kim,david.kim239@example.com,Consumer,Atlanta,GA,South,2023-09-11
+240,Steven,Brown,steven.brown240@example.com,Consumer,Philadelphia,PA,East,2023-08-14
+241,Jennifer,Thompson,jennifer.thompson241@example.com,Consumer,Atlanta,GA,South,2022-07-05
+242,Justin,Parker,justin.parker242@example.com,Corporate,Houston,TX,South,2023-04-27
+243,Brian,Evans,brian.evans243@example.com,Consumer,Boston,MA,East,2022-12-04
+244,Edward,Murphy,edward.murphy244@example.com,Consumer,Houston,TX,South,2023-04-11
+245,Barbara,Green,barbara.green245@example.com,Consumer,Newark,NJ,East,2023-06-11
+246,James,Cooper,james.cooper246@example.com,Consumer,Boston,MA,East,2023-06-15
+247,George,Richardson,george.richardson247@example.com,Corporate,Houston,TX,South,2022-07-28
+248,Paul,Peterson,paul.peterson248@example.com,Consumer,Columbus,OH,Midwest,2023-05-12
+249,Jessica,Brown,jessica.brown249@example.com,Small Business,San Francisco,CA,West,2022-11-15
+250,Stephen,Johnson,stephen.johnson250@example.com,Corporate,Boston,MA,East,2022-04-27
+251,Cynthia,Thomas,cynthia.thomas251@example.com,Corporate,Phoenix,AZ,West,2022-10-26
+252,Shirley,Wright,shirley.wright252@example.com,Consumer,Charlotte,NC,South,2022-09-07
+253,Ryan,Peterson,ryan.peterson253@example.com,Consumer,San Francisco,CA,West,2022-03-13
+254,Emily,Turner,emily.turner254@example.com,Consumer,Chicago,IL,Midwest,2022-10-17
+255,Patrick,Hill,patrick.hill255@example.com,Small Business,Dallas,TX,South,2023-04-03
+256,Jonathan,Morris,jonathan.morris256@example.com,Consumer,Charlotte,NC,South,2022-11-26
+257,Matthew,Walker,matthew.walker257@example.com,Corporate,Phoenix,AZ,West,2022-02-14
+258,Kenneth,Stewart,kenneth.stewart258@example.com,Corporate,Charlotte,NC,South,2023-11-11
+259,Katherine,Martin,katherine.martin259@example.com,Consumer,Boston,MA,East,2023-05-30
+260,Pamela,Nelson,pamela.nelson260@example.com,Small Business,Houston,TX,South,2023-06-23
+261,Ryan,Johnson,ryan.johnson261@example.com,Corporate,Dallas,TX,South,2022-03-18
+262,Jacob,King,jacob.king262@example.com,Consumer,Houston,TX,South,2022-12-03
+263,Frank,Morgan,frank.morgan263@example.com,Consumer,Columbus,OH,Midwest,2023-07-09
+264,Robert,Richardson,robert.richardson264@example.com,Consumer,Detroit,MI,Midwest,2022-04-03
+265,Sharon,Gonzalez,sharon.gonzalez265@example.com,Corporate,Newark,NJ,East,2022-06-20
+266,Alexander,Hill,alexander.hill266@example.com,Small Business,Philadelphia,PA,East,2022-02-27
+267,Donna,Rivera,donna.rivera267@example.com,Consumer,San Francisco,CA,West,2023-06-28
+268,Edward,Reed,edward.reed268@example.com,Corporate,San Francisco,CA,West,2022-06-29
+269,David,Ward,david.ward269@example.com,Small Business,Phoenix,AZ,West,2023-08-21
+270,Charles,Robinson,charles.robinson270@example.com,Consumer,Columbus,OH,Midwest,2022-09-19
+271,Christine,Johnson,christine.johnson271@example.com,Small Business,Atlanta,GA,South,2023-11-25
+272,Helen,Lee,helen.lee272@example.com,Consumer,Minneapolis,MN,Midwest,2023-10-17
+273,Jason,Allen,jason.allen273@example.com,Consumer,Detroit,MI,Midwest,2023-01-29
+274,Kathleen,Wilson,kathleen.wilson274@example.com,Consumer,Minneapolis,MN,Midwest,2022-10-30
+275,John,Gomez,john.gomez275@example.com,Consumer,Newark,NJ,East,2022-10-21
+276,Sandra,Cox,sandra.cox276@example.com,Small Business,San Francisco,CA,West,2023-09-28
+277,Steven,Moore,steven.moore277@example.com,Corporate,Philadelphia,PA,East,2023-03-28
+278,Robert,Howard,robert.howard278@example.com,Consumer,Los Angeles,CA,West,2022-10-30
+279,Dorothy,Turner,dorothy.turner279@example.com,Consumer,Seattle,WA,West,2023-06-28
+280,Nicholas,Wright,nicholas.wright280@example.com,Small Business,Columbus,OH,Midwest,2022-10-30
+281,Janet,Baker,janet.baker281@example.com,Small Business,Houston,TX,South,2022-05-25
+282,Mark,Gomez,mark.gomez282@example.com,Small Business,Chicago,IL,Midwest,2023-02-09
+283,Mary,King,mary.king283@example.com,Consumer,Atlanta,GA,South,2023-11-20
+284,Janet,King,janet.king284@example.com,Corporate,Chicago,IL,Midwest,2023-11-23
+285,Sandra,Stewart,sandra.stewart285@example.com,Consumer,Detroit,MI,Midwest,2023-10-26
+286,William,Reyes,william.reyes286@example.com,Small Business,Columbus,OH,Midwest,2022-04-30
+287,Sarah,Garcia,sarah.garcia287@example.com,Small Business,Columbus,OH,Midwest,2022-04-29
+288,Richard,Walker,richard.walker288@example.com,Small Business,Phoenix,AZ,West,2023-04-10
+289,Melissa,Cooper,melissa.cooper289@example.com,Consumer,Phoenix,AZ,West,2023-11-02
+290,Richard,Morales,richard.morales290@example.com,Corporate,Chicago,IL,Midwest,2023-01-15
+291,Margaret,Cruz,margaret.cruz291@example.com,Consumer,Seattle,WA,West,2022-04-12
+292,Debra,Mitchell,debra.mitchell292@example.com,Consumer,Chicago,IL,Midwest,2023-02-12
+293,Emily,Harris,emily.harris293@example.com,Small Business,Houston,TX,South,2023-11-10
+294,Margaret,Kim,margaret.kim294@example.com,Small Business,Philadelphia,PA,East,2022-09-07
+295,Thomas,Reed,thomas.reed295@example.com,Consumer,San Francisco,CA,West,2022-08-27
+296,Kevin,Jackson,kevin.jackson296@example.com,Corporate,Philadelphia,PA,East,2022-05-29
+297,Thomas,Cooper,thomas.cooper297@example.com,Consumer,Los Angeles,CA,West,2023-11-08
+298,Patricia,Taylor,patricia.taylor298@example.com,Consumer,Seattle,WA,West,2022-01-17
+299,Daniel,King,daniel.king299@example.com,Consumer,Houston,TX,South,2022-03-07
+300,Jacob,Edwards,jacob.edwards300@example.com,Corporate,Newark,NJ,East,2023-05-31
+301,Mark,Ward,mark.ward301@example.com,Consumer,Columbus,OH,Midwest,2023-10-21
+302,Patricia,Davis,patricia.davis302@example.com,Small Business,Charlotte,NC,South,2022-04-21
+303,Gary,Cruz,gary.cruz303@example.com,Consumer,Philadelphia,PA,East,2023-09-15
+304,Charles,Rodriguez,charles.rodriguez304@example.com,Consumer,Columbus,OH,Midwest,2023-09-04
+305,Angela,Nguyen,angela.nguyen305@example.com,Consumer,Houston,TX,South,2022-04-28
+306,Katherine,Peterson,katherine.peterson306@example.com,Corporate,Phoenix,AZ,West,2023-04-08
+307,Sandra,Evans,sandra.evans307@example.com,Consumer,Charlotte,NC,South,2023-03-02
+308,Carolyn,Gonzalez,carolyn.gonzalez308@example.com,Consumer,Minneapolis,MN,Midwest,2023-01-19
+309,Karen,Stewart,karen.stewart309@example.com,Consumer,New York,NY,East,2023-03-19
+310,Richard,Mitchell,richard.mitchell310@example.com,Small Business,Philadelphia,PA,East,2023-11-18
+311,Jessica,Evans,jessica.evans311@example.com,Consumer,Houston,TX,South,2022-10-22
+312,Scott,Flores,scott.flores312@example.com,Consumer,San Francisco,CA,West,2023-11-04
+313,Kathleen,Lewis,kathleen.lewis313@example.com,Small Business,Minneapolis,MN,Midwest,2022-04-28
+314,Emily,Kelly,emily.kelly314@example.com,Consumer,Houston,TX,South,2023-09-16
+315,Gregory,Wright,gregory.wright315@example.com,Consumer,Minneapolis,MN,Midwest,2022-12-14
+316,Brian,Smith,brian.smith316@example.com,Consumer,Phoenix,AZ,West,2022-03-13
+317,Charles,Brown,charles.brown317@example.com,Consumer,Phoenix,AZ,West,2023-03-06
+318,Ryan,Baker,ryan.baker318@example.com,Consumer,Minneapolis,MN,Midwest,2023-08-05
+319,Scott,Hernandez,scott.hernandez319@example.com,Small Business,San Francisco,CA,West,2023-09-25
+320,Michael,Hernandez,michael.hernandez320@example.com,Consumer,Charlotte,NC,South,2023-09-14
+321,Jeffrey,Turner,jeffrey.turner321@example.com,Consumer,Philadelphia,PA,East,2023-03-17
+322,Joseph,Torres,joseph.torres322@example.com,Corporate,Atlanta,GA,South,2022-02-16
+323,Mark,Gomez,mark.gomez323@example.com,Small Business,New York,NY,East,2022-07-29
+324,Joshua,Ramirez,joshua.ramirez324@example.com,Corporate,Minneapolis,MN,Midwest,2022-12-02
+325,Jessica,Smith,jessica.smith325@example.com,Consumer,Dallas,TX,South,2022-05-13
+326,Timothy,Morgan,timothy.morgan326@example.com,Corporate,Chicago,IL,Midwest,2023-02-11
+327,Jack,Garcia,jack.garcia327@example.com,Consumer,Houston,TX,South,2022-11-17
+328,Brenda,Diaz,brenda.diaz328@example.com,Corporate,Atlanta,GA,South,2022-04-28
+329,Stephanie,Williams,stephanie.williams329@example.com,Small Business,Phoenix,AZ,West,2023-01-06
+330,Barbara,Parker,barbara.parker330@example.com,Small Business,Phoenix,AZ,West,2023-08-27
+331,Stephanie,Ortiz,stephanie.ortiz331@example.com,Consumer,Minneapolis,MN,Midwest,2022-08-15
+332,Kevin,Perez,kevin.perez332@example.com,Consumer,Boston,MA,East,2022-12-24
+333,Brian,Jackson,brian.jackson333@example.com,Consumer,Seattle,WA,West,2022-07-22
+334,Daniel,Cox,daniel.cox334@example.com,Consumer,Boston,MA,East,2023-10-06
+335,Amy,Reyes,amy.reyes335@example.com,Corporate,Atlanta,GA,South,2023-10-05
+336,Kenneth,Martin,kenneth.martin336@example.com,Consumer,Charlotte,NC,South,2023-10-09
+337,Joshua,Scott,joshua.scott337@example.com,Corporate,Chicago,IL,Midwest,2022-11-14
+338,Cynthia,Edwards,cynthia.edwards338@example.com,Consumer,Minneapolis,MN,Midwest,2022-03-20
+339,Samuel,Lopez,samuel.lopez339@example.com,Corporate,Charlotte,NC,South,2023-08-18
+340,Stephen,Garcia,stephen.garcia340@example.com,Consumer,Seattle,WA,West,2023-09-12
+341,Jacob,Cook,jacob.cook341@example.com,Consumer,Newark,NJ,East,2022-04-16
+342,Carol,Hernandez,carol.hernandez342@example.com,Consumer,Los Angeles,CA,West,2022-09-11
+343,Raymond,Cruz,raymond.cruz343@example.com,Small Business,Seattle,WA,West,2023-01-17
+344,Andrew,Roberts,andrew.roberts344@example.com,Consumer,Chicago,IL,Midwest,2023-10-09
+345,Samuel,Nelson,samuel.nelson345@example.com,Consumer,Newark,NJ,East,2022-10-18
+346,Steven,Cox,steven.cox346@example.com,Small Business,Chicago,IL,Midwest,2023-08-20
+347,Gregory,Jackson,gregory.jackson347@example.com,Small Business,Columbus,OH,Midwest,2022-05-13
+348,Scott,Hernandez,scott.hernandez348@example.com,Consumer,Atlanta,GA,South,2022-05-11
+349,Christine,Ortiz,christine.ortiz349@example.com,Consumer,Atlanta,GA,South,2022-01-19
+350,George,Flores,george.flores350@example.com,Consumer,Seattle,WA,West,2023-05-13
